@@ -1,0 +1,319 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "guide-show-hua-dong",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 1,
+    "wrapMode": 2,
+    "_curves": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          {
+            "__id__": 2
+          },
+          "color"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            },
+            {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          ],
+          "easingMethods": [
+            "quartIn",
+            "quadIn",
+            null
+          ]
+        }
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 3
+          },
+          {
+            "__id__": 4
+          },
+          "color"
+        ],
+        "data": {
+          "keys": 1,
+          "values": [
+            {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            },
+            {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            },
+            {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          ],
+          "easingMethods": [
+            null,
+            "quadIn",
+            "quadIn",
+            null
+          ]
+        }
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 5
+          },
+          {
+            "__id__": 6
+          },
+          "color"
+        ],
+        "data": {
+          "keys": 2,
+          "values": [
+            {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            },
+            {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            },
+            {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          ],
+          "easingMethods": [
+            null,
+            "quadIn",
+            "quadIn",
+            null
+          ]
+        }
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 7
+          },
+          "position"
+        ],
+        "data": {
+          "keys": 3,
+          "values": [
+            {
+              "__type__": "cc.Vec3",
+              "x": -120,
+              "y": 16,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": -120,
+              "y": 16,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": -120,
+              "y": -137,
+              "z": 0
+            }
+          ],
+          "easingMethods": [
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 8
+          },
+          {
+            "__id__": 9
+          },
+          "color"
+        ],
+        "data": {
+          "keys": 4,
+          "values": [
+            {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            },
+            {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            },
+            {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          ],
+          "easingMethods": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    ],
+    "events": [],
+    "_duration": 0.8333333333333334,
+    "_keys": [
+      [
+        0,
+        0.16666666666666666,
+        0.3333333333333333
+      ],
+      [
+        0,
+        0.16666666666666666,
+        0.3333333333333333,
+        0.5
+      ],
+      [
+        0,
+        0.3333333333333333,
+        0.5,
+        0.6666666666666666
+      ],
+      [
+        0,
+        0.16666666666666666,
+        0.5
+      ],
+      [
+        0,
+        0.5,
+        0.55,
+        0.6666666666666666,
+        0.8333333333333334
+      ]
+    ],
+    "_stepness": 0
+  },
+  {
+    "__type__": "cc.HierachyModifier",
+    "path": "sp-1"
+  },
+  {
+    "__type__": "cc.ComponentModifier",
+    "component": "cc.SpriteComponent"
+  },
+  {
+    "__type__": "cc.HierachyModifier",
+    "path": "sp-2"
+  },
+  {
+    "__type__": "cc.ComponentModifier",
+    "component": "cc.SpriteComponent"
+  },
+  {
+    "__type__": "cc.HierachyModifier",
+    "path": "sp-3"
+  },
+  {
+    "__type__": "cc.ComponentModifier",
+    "component": "cc.SpriteComponent"
+  },
+  {
+    "__type__": "cc.HierachyModifier",
+    "path": "sp-shou"
+  },
+  {
+    "__type__": "cc.HierachyModifier",
+    "path": "sp-shou"
+  },
+  {
+    "__type__": "cc.ComponentModifier",
+    "component": "cc.SpriteComponent"
+  }
+]

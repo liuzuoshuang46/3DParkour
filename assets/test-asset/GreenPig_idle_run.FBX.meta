@@ -1,0 +1,249 @@
+{
+  "ver": "1.1.2525",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a424e793-3d66-4812-98a4-79a4eb77f289",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".fbx"
+  ],
+  "subMetas": {
+    "30732": {
+      "ver": "1.0.0",
+      "importer": "gltf-skeleton",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "id": "30732",
+      "displayName": "",
+      "uuid": "a424e793-3d66-4812-98a4-79a4eb77f289@30732",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "2a6b3": {
+      "ver": "1.0.2",
+      "importer": "gltf-mesh",
+      "name": "Object01.mesh",
+      "id": "2a6b3",
+      "displayName": "",
+      "uuid": "a424e793-3d66-4812-98a4-79a4eb77f289@2a6b3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "d7ae6": {
+      "ver": "1.0.2",
+      "importer": "gltf-mesh",
+      "name": "Shenti01.mesh",
+      "id": "d7ae6",
+      "displayName": "",
+      "uuid": "a424e793-3d66-4812-98a4-79a4eb77f289@d7ae6",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "73b7f": {
+      "ver": "1.0.11",
+      "importer": "gltf-animation",
+      "name": "Take 001.animation",
+      "id": "73b7f",
+      "displayName": "",
+      "uuid": "a424e793-3d66-4812-98a4-79a4eb77f289@73b7f",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.7916666269302368
+        },
+        "events": []
+      }
+    },
+    "f1394": {
+      "ver": "1.0.0",
+      "importer": "gltf-skeleton",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "id": "f1394",
+      "displayName": "",
+      "uuid": "a424e793-3d66-4812-98a4-79a4eb77f289@f1394",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "f8008": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "Map #4.texture",
+      "id": "f8008",
+      "displayName": "",
+      "uuid": "a424e793-3d66-4812-98a4-79a4eb77f289@f8008",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1
+      }
+    },
+    "6b9e5": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "Map #3.texture",
+      "id": "6b9e5",
+      "displayName": "",
+      "uuid": "a424e793-3d66-4812-98a4-79a4eb77f289@6b9e5",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1
+      }
+    },
+    "c83de": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "Material #167.material",
+      "id": "c83de",
+      "displayName": "",
+      "uuid": "a424e793-3d66-4812-98a4-79a4eb77f289@c83de",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "dfb38": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "Material #166.material",
+      "id": "dfb38",
+      "displayName": "",
+      "uuid": "a424e793-3d66-4812-98a4-79a4eb77f289@dfb38",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "f709e": {
+      "ver": "1.0.8",
+      "importer": "gltf-scene",
+      "name": "GreenPig_idle_run.FBX.prefab",
+      "id": "f709e",
+      "displayName": "",
+      "uuid": "a424e793-3d66-4812-98a4-79a4eb77f289@f709e",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageLocations": {
+      "Map #4": {
+        "originalPath": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==",
+        "targetDatabaseUrl": null
+      },
+      "Map #3": {
+        "originalPath": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==",
+        "targetDatabaseUrl": null
+      }
+    },
+    "normals": 2,
+    "tangents": 2,
+    "dumpMaterials": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.7916666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 1.7916666269302368
+          }
+        ]
+      }
+    ],
+    "redirect": "a424e793-3d66-4812-98a4-79a4eb77f289@f709e",
+    "assetFinder": {
+      "meshes": [
+        "a424e793-3d66-4812-98a4-79a4eb77f289@2a6b3",
+        "a424e793-3d66-4812-98a4-79a4eb77f289@d7ae6"
+      ],
+      "skeletons": [
+        "a424e793-3d66-4812-98a4-79a4eb77f289@30732",
+        "a424e793-3d66-4812-98a4-79a4eb77f289@f1394"
+      ],
+      "images": [
+        null,
+        null
+      ],
+      "textures": [
+        "a424e793-3d66-4812-98a4-79a4eb77f289@f8008",
+        "a424e793-3d66-4812-98a4-79a4eb77f289@6b9e5"
+      ],
+      "materials": [
+        "a424e793-3d66-4812-98a4-79a4eb77f289@c83de",
+        "a424e793-3d66-4812-98a4-79a4eb77f289@dfb38"
+      ],
+      "scenes": [
+        "a424e793-3d66-4812-98a4-79a4eb77f289@f709e"
+      ]
+    }
+  }
+}

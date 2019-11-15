@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "1",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "1",
+    "speed_bonus": "1",
+    "speed_upgrade": "430",
+    "outbreak_bonus": "5",
+    "outbreak_upgrade": "320"
+  },
+  {
+    "id": "2",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "2",
+    "speed_bonus": "2",
+    "speed_upgrade": "720",
+    "outbreak_bonus": "7",
+    "outbreak_upgrade": "600"
+  },
+  {
+    "id": "3",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "3",
+    "speed_bonus": "3",
+    "speed_upgrade": "864",
+    "outbreak_bonus": "9",
+    "outbreak_upgrade": "720"
+  },
+  {
+    "id": "4",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "4",
+    "speed_bonus": "4",
+    "speed_upgrade": "1037",
+    "outbreak_bonus": "11",
+    "outbreak_upgrade": "864"
+  },
+  {
+    "id": "5",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "5",
+    "speed_bonus": "5",
+    "speed_upgrade": "1244",
+    "outbreak_bonus": "12",
+    "outbreak_upgrade": "1037"
+  },
+  {
+    "id": "6",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "6",
+    "speed_bonus": "6",
+    "speed_upgrade": "1493",
+    "outbreak_bonus": "13",
+    "outbreak_upgrade": "1244"
+  },
+  {
+    "id": "7",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "7",
+    "speed_bonus": "7",
+    "speed_upgrade": "1792",
+    "outbreak_bonus": "14",
+    "outbreak_upgrade": "1493"
+  },
+  {
+    "id": "8",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "8",
+    "speed_bonus": "8",
+    "speed_upgrade": "2150",
+    "outbreak_bonus": "15",
+    "outbreak_upgrade": "1792"
+  },
+  {
+    "id": "9",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "9",
+    "speed_bonus": "9",
+    "speed_upgrade": "2580",
+    "outbreak_bonus": "16",
+    "outbreak_upgrade": "2150"
+  },
+  {
+    "id": "10",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "10",
+    "speed_bonus": "10",
+    "speed_upgrade": "3096",
+    "outbreak_bonus": "17",
+    "outbreak_upgrade": "2580"
+  },
+  {
+    "id": "11",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "11",
+    "speed_bonus": "11",
+    "speed_upgrade": "3715",
+    "outbreak_bonus": "18",
+    "outbreak_upgrade": "3096"
+  },
+  {
+    "id": "12",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "12",
+    "speed_bonus": "12",
+    "speed_upgrade": "4735",
+    "outbreak_bonus": "19",
+    "outbreak_upgrade": "3946"
+  },
+  {
+    "id": "13",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "13",
+    "speed_bonus": "13",
+    "speed_upgrade": "5755",
+    "outbreak_bonus": "20",
+    "outbreak_upgrade": "4796"
+  },
+  {
+    "id": "14",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "14",
+    "speed_bonus": "14",
+    "speed_upgrade": "6775",
+    "outbreak_bonus": "21",
+    "outbreak_upgrade": "5646"
+  },
+  {
+    "id": "15",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "15",
+    "speed_bonus": "15",
+    "speed_upgrade": "7795",
+    "outbreak_bonus": "22",
+    "outbreak_upgrade": "6496"
+  },
+  {
+    "id": "16",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "16",
+    "speed_bonus": "16",
+    "speed_upgrade": "8815",
+    "outbreak_bonus": "23",
+    "outbreak_upgrade": "7346"
+  },
+  {
+    "id": "17",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "17",
+    "speed_bonus": "17",
+    "speed_upgrade": "9835",
+    "outbreak_bonus": "24",
+    "outbreak_upgrade": "8196"
+  },
+  {
+    "id": "18",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "18",
+    "speed_bonus": "18",
+    "speed_upgrade": "10855",
+    "outbreak_bonus": "25",
+    "outbreak_upgrade": "9046"
+  },
+  {
+    "id": "19",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "19",
+    "speed_bonus": "19",
+    "speed_upgrade": "11875",
+    "outbreak_bonus": "26",
+    "outbreak_upgrade": "9896"
+  },
+  {
+    "id": "20",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "20",
+    "speed_bonus": "20",
+    "speed_upgrade": "12895",
+    "outbreak_bonus": "27",
+    "outbreak_upgrade": "10746"
+  },
+  {
+    "id": "21",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "21",
+    "speed_bonus": "21",
+    "speed_upgrade": "14215",
+    "outbreak_bonus": "28",
+    "outbreak_upgrade": "11846"
+  },
+  {
+    "id": "22",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "22",
+    "speed_bonus": "22",
+    "speed_upgrade": "15535",
+    "outbreak_bonus": "29",
+    "outbreak_upgrade": "12946"
+  },
+  {
+    "id": "23",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "23",
+    "speed_bonus": "23",
+    "speed_upgrade": "16855",
+    "outbreak_bonus": "30",
+    "outbreak_upgrade": "14046"
+  },
+  {
+    "id": "24",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "24",
+    "speed_bonus": "24",
+    "speed_upgrade": "18175",
+    "outbreak_bonus": "31",
+    "outbreak_upgrade": "15146"
+  },
+  {
+    "id": "25",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "25",
+    "speed_bonus": "25",
+    "speed_upgrade": "19495",
+    "outbreak_bonus": "32",
+    "outbreak_upgrade": "16246"
+  },
+  {
+    "id": "26",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "26",
+    "speed_bonus": "26",
+    "speed_upgrade": "20815",
+    "outbreak_bonus": "33",
+    "outbreak_upgrade": "17346"
+  },
+  {
+    "id": "27",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "27",
+    "speed_bonus": "27",
+    "speed_upgrade": "22135",
+    "outbreak_bonus": "34",
+    "outbreak_upgrade": "18446"
+  },
+  {
+    "id": "28",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "28",
+    "speed_bonus": "28",
+    "speed_upgrade": "23455",
+    "outbreak_bonus": "35",
+    "outbreak_upgrade": "19546"
+  },
+  {
+    "id": "29",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "29",
+    "speed_bonus": "29",
+    "speed_upgrade": "24775",
+    "outbreak_bonus": "36",
+    "outbreak_upgrade": "20646"
+  },
+  {
+    "id": "30",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "30",
+    "speed_bonus": "30",
+    "speed_upgrade": "26095",
+    "outbreak_bonus": "37",
+    "outbreak_upgrade": "21746"
+  },
+  {
+    "id": "31",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "31",
+    "speed_bonus": "31",
+    "speed_upgrade": "27715",
+    "outbreak_bonus": "38",
+    "outbreak_upgrade": "23096"
+  },
+  {
+    "id": "32",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "32",
+    "speed_bonus": "32",
+    "speed_upgrade": "29335",
+    "outbreak_bonus": "39",
+    "outbreak_upgrade": "24446"
+  },
+  {
+    "id": "33",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "33",
+    "speed_bonus": "33",
+    "speed_upgrade": "30955",
+    "outbreak_bonus": "40",
+    "outbreak_upgrade": "25796"
+  },
+  {
+    "id": "34",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "34",
+    "speed_bonus": "34",
+    "speed_upgrade": "32575",
+    "outbreak_bonus": "41",
+    "outbreak_upgrade": "27146"
+  },
+  {
+    "id": "35",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "35",
+    "speed_bonus": "35",
+    "speed_upgrade": "34195",
+    "outbreak_bonus": "42",
+    "outbreak_upgrade": "28496"
+  },
+  {
+    "id": "36",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "36",
+    "speed_bonus": "36",
+    "speed_upgrade": "35815",
+    "outbreak_bonus": "43",
+    "outbreak_upgrade": "29846"
+  },
+  {
+    "id": "37",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "37",
+    "speed_bonus": "37",
+    "speed_upgrade": "37435",
+    "outbreak_bonus": "44",
+    "outbreak_upgrade": "31196"
+  },
+  {
+    "id": "38",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "38",
+    "speed_bonus": "38",
+    "speed_upgrade": "39055",
+    "outbreak_bonus": "45",
+    "outbreak_upgrade": "32546"
+  },
+  {
+    "id": "39",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "39",
+    "speed_bonus": "39",
+    "speed_upgrade": "40675",
+    "outbreak_bonus": "46",
+    "outbreak_upgrade": "33896"
+  },
+  {
+    "id": "40",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "40",
+    "speed_bonus": "40",
+    "speed_upgrade": "42295",
+    "outbreak_bonus": "47",
+    "outbreak_upgrade": "35246"
+  },
+  {
+    "id": "41",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "41",
+    "speed_bonus": "41",
+    "speed_upgrade": "44215",
+    "outbreak_bonus": "48",
+    "outbreak_upgrade": "36846"
+  },
+  {
+    "id": "42",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "42",
+    "speed_bonus": "42",
+    "speed_upgrade": "46135",
+    "outbreak_bonus": "49",
+    "outbreak_upgrade": "38446"
+  },
+  {
+    "id": "43",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "43",
+    "speed_bonus": "43",
+    "speed_upgrade": "48055",
+    "outbreak_bonus": "50",
+    "outbreak_upgrade": "40046"
+  },
+  {
+    "id": "44",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "44",
+    "speed_bonus": "44",
+    "speed_upgrade": "49975",
+    "outbreak_bonus": "51",
+    "outbreak_upgrade": "41646"
+  },
+  {
+    "id": "45",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "45",
+    "speed_bonus": "45",
+    "speed_upgrade": "51895",
+    "outbreak_bonus": "52",
+    "outbreak_upgrade": "43246"
+  },
+  {
+    "id": "46",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "46",
+    "speed_bonus": "46",
+    "speed_upgrade": "53815",
+    "outbreak_bonus": "53",
+    "outbreak_upgrade": "44846"
+  },
+  {
+    "id": "47",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "47",
+    "speed_bonus": "47",
+    "speed_upgrade": "55735",
+    "outbreak_bonus": "54",
+    "outbreak_upgrade": "46446"
+  },
+  {
+    "id": "48",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "48",
+    "speed_bonus": "48",
+    "speed_upgrade": "57655",
+    "outbreak_bonus": "55",
+    "outbreak_upgrade": "48046"
+  },
+  {
+    "id": "49",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "49",
+    "speed_bonus": "49",
+    "speed_upgrade": "59575",
+    "outbreak_bonus": "56",
+    "outbreak_upgrade": "49646"
+  },
+  {
+    "id": "50",
+    "type": "1",
+    "name": "猪猪侠专车",
+    "level": "50",
+    "speed_bonus": "50",
+    "speed_upgrade": "61495",
+    "outbreak_bonus": "57",
+    "outbreak_upgrade": "51246"
+  },
+  {
+    "id": "1001",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "1",
+    "speed_bonus": "2",
+    "speed_upgrade": "430",
+    "outbreak_bonus": "6",
+    "outbreak_upgrade": "320"
+  },
+  {
+    "id": "1002",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "2",
+    "speed_bonus": "3",
+    "speed_upgrade": "720",
+    "outbreak_bonus": "8",
+    "outbreak_upgrade": "600"
+  },
+  {
+    "id": "1003",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "3",
+    "speed_bonus": "4",
+    "speed_upgrade": "864",
+    "outbreak_bonus": "10",
+    "outbreak_upgrade": "720"
+  },
+  {
+    "id": "1004",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "4",
+    "speed_bonus": "5",
+    "speed_upgrade": "1037",
+    "outbreak_bonus": "12",
+    "outbreak_upgrade": "864"
+  },
+  {
+    "id": "1005",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "5",
+    "speed_bonus": "6",
+    "speed_upgrade": "1244",
+    "outbreak_bonus": "13",
+    "outbreak_upgrade": "1037"
+  },
+  {
+    "id": "1006",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "6",
+    "speed_bonus": "7",
+    "speed_upgrade": "1493",
+    "outbreak_bonus": "14",
+    "outbreak_upgrade": "1244"
+  },
+  {
+    "id": "1007",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "7",
+    "speed_bonus": "8",
+    "speed_upgrade": "1792",
+    "outbreak_bonus": "15",
+    "outbreak_upgrade": "1493"
+  },
+  {
+    "id": "1008",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "8",
+    "speed_bonus": "9",
+    "speed_upgrade": "2150",
+    "outbreak_bonus": "16",
+    "outbreak_upgrade": "1792"
+  },
+  {
+    "id": "1009",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "9",
+    "speed_bonus": "10",
+    "speed_upgrade": "2580",
+    "outbreak_bonus": "17",
+    "outbreak_upgrade": "2150"
+  },
+  {
+    "id": "1010",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "10",
+    "speed_bonus": "11",
+    "speed_upgrade": "3096",
+    "outbreak_bonus": "18",
+    "outbreak_upgrade": "2580"
+  },
+  {
+    "id": "1011",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "11",
+    "speed_bonus": "12",
+    "speed_upgrade": "3715",
+    "outbreak_bonus": "19",
+    "outbreak_upgrade": "3096"
+  },
+  {
+    "id": "1012",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "12",
+    "speed_bonus": "13",
+    "speed_upgrade": "4735",
+    "outbreak_bonus": "20",
+    "outbreak_upgrade": "3946"
+  },
+  {
+    "id": "1013",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "13",
+    "speed_bonus": "14",
+    "speed_upgrade": "5755",
+    "outbreak_bonus": "21",
+    "outbreak_upgrade": "4796"
+  },
+  {
+    "id": "1014",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "14",
+    "speed_bonus": "15",
+    "speed_upgrade": "6775",
+    "outbreak_bonus": "22",
+    "outbreak_upgrade": "5646"
+  },
+  {
+    "id": "1015",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "15",
+    "speed_bonus": "16",
+    "speed_upgrade": "7795",
+    "outbreak_bonus": "23",
+    "outbreak_upgrade": "6496"
+  },
+  {
+    "id": "1016",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "16",
+    "speed_bonus": "17",
+    "speed_upgrade": "8815",
+    "outbreak_bonus": "24",
+    "outbreak_upgrade": "7346"
+  },
+  {
+    "id": "1017",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "17",
+    "speed_bonus": "18",
+    "speed_upgrade": "9835",
+    "outbreak_bonus": "25",
+    "outbreak_upgrade": "8196"
+  },
+  {
+    "id": "1018",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "18",
+    "speed_bonus": "19",
+    "speed_upgrade": "10855",
+    "outbreak_bonus": "26",
+    "outbreak_upgrade": "9046"
+  },
+  {
+    "id": "1019",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "19",
+    "speed_bonus": "20",
+    "speed_upgrade": "11875",
+    "outbreak_bonus": "27",
+    "outbreak_upgrade": "9896"
+  },
+  {
+    "id": "1020",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "20",
+    "speed_bonus": "21",
+    "speed_upgrade": "12895",
+    "outbreak_bonus": "28",
+    "outbreak_upgrade": "10746"
+  },
+  {
+    "id": "1021",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "21",
+    "speed_bonus": "22",
+    "speed_upgrade": "14215",
+    "outbreak_bonus": "29",
+    "outbreak_upgrade": "11846"
+  },
+  {
+    "id": "1022",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "22",
+    "speed_bonus": "23",
+    "speed_upgrade": "15535",
+    "outbreak_bonus": "30",
+    "outbreak_upgrade": "12946"
+  },
+  {
+    "id": "1023",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "23",
+    "speed_bonus": "24",
+    "speed_upgrade": "16855",
+    "outbreak_bonus": "31",
+    "outbreak_upgrade": "14046"
+  },
+  {
+    "id": "1024",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "24",
+    "speed_bonus": "25",
+    "speed_upgrade": "18175",
+    "outbreak_bonus": "32",
+    "outbreak_upgrade": "15146"
+  },
+  {
+    "id": "1025",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "25",
+    "speed_bonus": "26",
+    "speed_upgrade": "19495",
+    "outbreak_bonus": "33",
+    "outbreak_upgrade": "16246"
+  },
+  {
+    "id": "1026",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "26",
+    "speed_bonus": "27",
+    "speed_upgrade": "20815",
+    "outbreak_bonus": "34",
+    "outbreak_upgrade": "17346"
+  },
+  {
+    "id": "1027",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "27",
+    "speed_bonus": "28",
+    "speed_upgrade": "22135",
+    "outbreak_bonus": "35",
+    "outbreak_upgrade": "18446"
+  },
+  {
+    "id": "1028",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "28",
+    "speed_bonus": "29",
+    "speed_upgrade": "23455",
+    "outbreak_bonus": "36",
+    "outbreak_upgrade": "19546"
+  },
+  {
+    "id": "1029",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "29",
+    "speed_bonus": "30",
+    "speed_upgrade": "24775",
+    "outbreak_bonus": "37",
+    "outbreak_upgrade": "20646"
+  },
+  {
+    "id": "1030",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "30",
+    "speed_bonus": "31",
+    "speed_upgrade": "26095",
+    "outbreak_bonus": "38",
+    "outbreak_upgrade": "21746"
+  },
+  {
+    "id": "1031",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "31",
+    "speed_bonus": "32",
+    "speed_upgrade": "27715",
+    "outbreak_bonus": "39",
+    "outbreak_upgrade": "23096"
+  },
+  {
+    "id": "1032",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "32",
+    "speed_bonus": "33",
+    "speed_upgrade": "29335",
+    "outbreak_bonus": "40",
+    "outbreak_upgrade": "24446"
+  },
+  {
+    "id": "1033",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "33",
+    "speed_bonus": "34",
+    "speed_upgrade": "30955",
+    "outbreak_bonus": "41",
+    "outbreak_upgrade": "25796"
+  },
+  {
+    "id": "1034",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "34",
+    "speed_bonus": "35",
+    "speed_upgrade": "32575",
+    "outbreak_bonus": "42",
+    "outbreak_upgrade": "27146"
+  },
+  {
+    "id": "1035",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "35",
+    "speed_bonus": "36",
+    "speed_upgrade": "34195",
+    "outbreak_bonus": "43",
+    "outbreak_upgrade": "28496"
+  },
+  {
+    "id": "1036",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "36",
+    "speed_bonus": "37",
+    "speed_upgrade": "35815",
+    "outbreak_bonus": "44",
+    "outbreak_upgrade": "29846"
+  },
+  {
+    "id": "1037",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "37",
+    "speed_bonus": "38",
+    "speed_upgrade": "37435",
+    "outbreak_bonus": "45",
+    "outbreak_upgrade": "31196"
+  },
+  {
+    "id": "1038",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "38",
+    "speed_bonus": "39",
+    "speed_upgrade": "39055",
+    "outbreak_bonus": "46",
+    "outbreak_upgrade": "32546"
+  },
+  {
+    "id": "1039",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "39",
+    "speed_bonus": "40",
+    "speed_upgrade": "40675",
+    "outbreak_bonus": "47",
+    "outbreak_upgrade": "33896"
+  },
+  {
+    "id": "1040",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "40",
+    "speed_bonus": "41",
+    "speed_upgrade": "42295",
+    "outbreak_bonus": "48",
+    "outbreak_upgrade": "35246"
+  },
+  {
+    "id": "1041",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "41",
+    "speed_bonus": "42",
+    "speed_upgrade": "44215",
+    "outbreak_bonus": "49",
+    "outbreak_upgrade": "36846"
+  },
+  {
+    "id": "1042",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "42",
+    "speed_bonus": "43",
+    "speed_upgrade": "46135",
+    "outbreak_bonus": "50",
+    "outbreak_upgrade": "38446"
+  },
+  {
+    "id": "1043",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "43",
+    "speed_bonus": "44",
+    "speed_upgrade": "48055",
+    "outbreak_bonus": "51",
+    "outbreak_upgrade": "40046"
+  },
+  {
+    "id": "1044",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "44",
+    "speed_bonus": "45",
+    "speed_upgrade": "49975",
+    "outbreak_bonus": "52",
+    "outbreak_upgrade": "41646"
+  },
+  {
+    "id": "1045",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "45",
+    "speed_bonus": "46",
+    "speed_upgrade": "51895",
+    "outbreak_bonus": "53",
+    "outbreak_upgrade": "43246"
+  },
+  {
+    "id": "1046",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "46",
+    "speed_bonus": "47",
+    "speed_upgrade": "53815",
+    "outbreak_bonus": "54",
+    "outbreak_upgrade": "44846"
+  },
+  {
+    "id": "1047",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "47",
+    "speed_bonus": "48",
+    "speed_upgrade": "55735",
+    "outbreak_bonus": "55",
+    "outbreak_upgrade": "46446"
+  },
+  {
+    "id": "1048",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "48",
+    "speed_bonus": "49",
+    "speed_upgrade": "57655",
+    "outbreak_bonus": "56",
+    "outbreak_upgrade": "48046"
+  },
+  {
+    "id": "1049",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "49",
+    "speed_bonus": "50",
+    "speed_upgrade": "59575",
+    "outbreak_bonus": "57",
+    "outbreak_upgrade": "49646"
+  },
+  {
+    "id": "1050",
+    "type": "2",
+    "name": "菲菲专车",
+    "level": "50",
+    "speed_bonus": "51",
+    "speed_upgrade": "61495",
+    "outbreak_bonus": "58",
+    "outbreak_upgrade": "51246"
+  },
+  {
+    "id": "2001",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "1",
+    "speed_bonus": "3",
+    "speed_upgrade": "430",
+    "outbreak_bonus": "5",
+    "outbreak_upgrade": "320"
+  },
+  {
+    "id": "2002",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "2",
+    "speed_bonus": "4",
+    "speed_upgrade": "720",
+    "outbreak_bonus": "7",
+    "outbreak_upgrade": "600"
+  },
+  {
+    "id": "2003",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "3",
+    "speed_bonus": "5",
+    "speed_upgrade": "864",
+    "outbreak_bonus": "9",
+    "outbreak_upgrade": "720"
+  },
+  {
+    "id": "2004",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "4",
+    "speed_bonus": "6",
+    "speed_upgrade": "1037",
+    "outbreak_bonus": "11",
+    "outbreak_upgrade": "864"
+  },
+  {
+    "id": "2005",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "5",
+    "speed_bonus": "7",
+    "speed_upgrade": "1244",
+    "outbreak_bonus": "12",
+    "outbreak_upgrade": "1037"
+  },
+  {
+    "id": "2006",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "6",
+    "speed_bonus": "8",
+    "speed_upgrade": "1493",
+    "outbreak_bonus": "13",
+    "outbreak_upgrade": "1244"
+  },
+  {
+    "id": "2007",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "7",
+    "speed_bonus": "9",
+    "speed_upgrade": "1792",
+    "outbreak_bonus": "14",
+    "outbreak_upgrade": "1493"
+  },
+  {
+    "id": "2008",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "8",
+    "speed_bonus": "10",
+    "speed_upgrade": "2150",
+    "outbreak_bonus": "15",
+    "outbreak_upgrade": "1792"
+  },
+  {
+    "id": "2009",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "9",
+    "speed_bonus": "11",
+    "speed_upgrade": "2580",
+    "outbreak_bonus": "16",
+    "outbreak_upgrade": "2150"
+  },
+  {
+    "id": "2010",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "10",
+    "speed_bonus": "12",
+    "speed_upgrade": "3096",
+    "outbreak_bonus": "17",
+    "outbreak_upgrade": "2580"
+  },
+  {
+    "id": "2011",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "11",
+    "speed_bonus": "13",
+    "speed_upgrade": "3715",
+    "outbreak_bonus": "18",
+    "outbreak_upgrade": "3096"
+  },
+  {
+    "id": "2012",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "12",
+    "speed_bonus": "14",
+    "speed_upgrade": "4735",
+    "outbreak_bonus": "19",
+    "outbreak_upgrade": "3946"
+  },
+  {
+    "id": "2013",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "13",
+    "speed_bonus": "15",
+    "speed_upgrade": "5755",
+    "outbreak_bonus": "20",
+    "outbreak_upgrade": "4796"
+  },
+  {
+    "id": "2014",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "14",
+    "speed_bonus": "16",
+    "speed_upgrade": "6775",
+    "outbreak_bonus": "21",
+    "outbreak_upgrade": "5646"
+  },
+  {
+    "id": "2015",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "15",
+    "speed_bonus": "17",
+    "speed_upgrade": "7795",
+    "outbreak_bonus": "22",
+    "outbreak_upgrade": "6496"
+  },
+  {
+    "id": "2016",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "16",
+    "speed_bonus": "18",
+    "speed_upgrade": "8815",
+    "outbreak_bonus": "23",
+    "outbreak_upgrade": "7346"
+  },
+  {
+    "id": "2017",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "17",
+    "speed_bonus": "19",
+    "speed_upgrade": "9835",
+    "outbreak_bonus": "24",
+    "outbreak_upgrade": "8196"
+  },
+  {
+    "id": "2018",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "18",
+    "speed_bonus": "20",
+    "speed_upgrade": "10855",
+    "outbreak_bonus": "25",
+    "outbreak_upgrade": "9046"
+  },
+  {
+    "id": "2019",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "19",
+    "speed_bonus": "21",
+    "speed_upgrade": "11875",
+    "outbreak_bonus": "26",
+    "outbreak_upgrade": "9896"
+  },
+  {
+    "id": "2020",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "20",
+    "speed_bonus": "22",
+    "speed_upgrade": "12895",
+    "outbreak_bonus": "27",
+    "outbreak_upgrade": "10746"
+  },
+  {
+    "id": "2021",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "21",
+    "speed_bonus": "23",
+    "speed_upgrade": "14215",
+    "outbreak_bonus": "28",
+    "outbreak_upgrade": "11846"
+  },
+  {
+    "id": "2022",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "22",
+    "speed_bonus": "24",
+    "speed_upgrade": "15535",
+    "outbreak_bonus": "29",
+    "outbreak_upgrade": "12946"
+  },
+  {
+    "id": "2023",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "23",
+    "speed_bonus": "25",
+    "speed_upgrade": "16855",
+    "outbreak_bonus": "30",
+    "outbreak_upgrade": "14046"
+  },
+  {
+    "id": "2024",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "24",
+    "speed_bonus": "26",
+    "speed_upgrade": "18175",
+    "outbreak_bonus": "31",
+    "outbreak_upgrade": "15146"
+  },
+  {
+    "id": "2025",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "25",
+    "speed_bonus": "27",
+    "speed_upgrade": "19495",
+    "outbreak_bonus": "32",
+    "outbreak_upgrade": "16246"
+  },
+  {
+    "id": "2026",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "26",
+    "speed_bonus": "28",
+    "speed_upgrade": "20815",
+    "outbreak_bonus": "33",
+    "outbreak_upgrade": "17346"
+  },
+  {
+    "id": "2027",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "27",
+    "speed_bonus": "29",
+    "speed_upgrade": "22135",
+    "outbreak_bonus": "34",
+    "outbreak_upgrade": "18446"
+  },
+  {
+    "id": "2028",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "28",
+    "speed_bonus": "30",
+    "speed_upgrade": "23455",
+    "outbreak_bonus": "35",
+    "outbreak_upgrade": "19546"
+  },
+  {
+    "id": "2029",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "29",
+    "speed_bonus": "31",
+    "speed_upgrade": "24775",
+    "outbreak_bonus": "36",
+    "outbreak_upgrade": "20646"
+  },
+  {
+    "id": "2030",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "30",
+    "speed_bonus": "32",
+    "speed_upgrade": "26095",
+    "outbreak_bonus": "37",
+    "outbreak_upgrade": "21746"
+  },
+  {
+    "id": "2031",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "31",
+    "speed_bonus": "33",
+    "speed_upgrade": "27715",
+    "outbreak_bonus": "38",
+    "outbreak_upgrade": "23096"
+  },
+  {
+    "id": "2032",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "32",
+    "speed_bonus": "34",
+    "speed_upgrade": "29335",
+    "outbreak_bonus": "39",
+    "outbreak_upgrade": "24446"
+  },
+  {
+    "id": "2033",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "33",
+    "speed_bonus": "35",
+    "speed_upgrade": "30955",
+    "outbreak_bonus": "40",
+    "outbreak_upgrade": "25796"
+  },
+  {
+    "id": "2034",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "34",
+    "speed_bonus": "36",
+    "speed_upgrade": "32575",
+    "outbreak_bonus": "41",
+    "outbreak_upgrade": "27146"
+  },
+  {
+    "id": "2035",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "35",
+    "speed_bonus": "37",
+    "speed_upgrade": "34195",
+    "outbreak_bonus": "42",
+    "outbreak_upgrade": "28496"
+  },
+  {
+    "id": "2036",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "36",
+    "speed_bonus": "38",
+    "speed_upgrade": "35815",
+    "outbreak_bonus": "43",
+    "outbreak_upgrade": "29846"
+  },
+  {
+    "id": "2037",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "37",
+    "speed_bonus": "39",
+    "speed_upgrade": "37435",
+    "outbreak_bonus": "44",
+    "outbreak_upgrade": "31196"
+  },
+  {
+    "id": "2038",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "38",
+    "speed_bonus": "40",
+    "speed_upgrade": "39055",
+    "outbreak_bonus": "45",
+    "outbreak_upgrade": "32546"
+  },
+  {
+    "id": "2039",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "39",
+    "speed_bonus": "41",
+    "speed_upgrade": "40675",
+    "outbreak_bonus": "46",
+    "outbreak_upgrade": "33896"
+  },
+  {
+    "id": "2040",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "40",
+    "speed_bonus": "42",
+    "speed_upgrade": "42295",
+    "outbreak_bonus": "47",
+    "outbreak_upgrade": "35246"
+  },
+  {
+    "id": "2041",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "41",
+    "speed_bonus": "43",
+    "speed_upgrade": "44215",
+    "outbreak_bonus": "48",
+    "outbreak_upgrade": "36846"
+  },
+  {
+    "id": "2042",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "42",
+    "speed_bonus": "44",
+    "speed_upgrade": "46135",
+    "outbreak_bonus": "49",
+    "outbreak_upgrade": "38446"
+  },
+  {
+    "id": "2043",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "43",
+    "speed_bonus": "45",
+    "speed_upgrade": "48055",
+    "outbreak_bonus": "50",
+    "outbreak_upgrade": "40046"
+  },
+  {
+    "id": "2044",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "44",
+    "speed_bonus": "46",
+    "speed_upgrade": "49975",
+    "outbreak_bonus": "51",
+    "outbreak_upgrade": "41646"
+  },
+  {
+    "id": "2045",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "45",
+    "speed_bonus": "47",
+    "speed_upgrade": "51895",
+    "outbreak_bonus": "52",
+    "outbreak_upgrade": "43246"
+  },
+  {
+    "id": "2046",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "46",
+    "speed_bonus": "48",
+    "speed_upgrade": "53815",
+    "outbreak_bonus": "53",
+    "outbreak_upgrade": "44846"
+  },
+  {
+    "id": "2047",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "47",
+    "speed_bonus": "49",
+    "speed_upgrade": "55735",
+    "outbreak_bonus": "54",
+    "outbreak_upgrade": "46446"
+  },
+  {
+    "id": "2048",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "48",
+    "speed_bonus": "50",
+    "speed_upgrade": "57655",
+    "outbreak_bonus": "55",
+    "outbreak_upgrade": "48046"
+  },
+  {
+    "id": "2049",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "49",
+    "speed_bonus": "51",
+    "speed_upgrade": "59575",
+    "outbreak_bonus": "56",
+    "outbreak_upgrade": "49646"
+  },
+  {
+    "id": "2050",
+    "type": "3",
+    "name": "超人强专车",
+    "level": "50",
+    "speed_bonus": "52",
+    "speed_upgrade": "61495",
+    "outbreak_bonus": "57",
+    "outbreak_upgrade": "51246"
+  },
+  {
+    "id": "3001",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "1",
+    "speed_bonus": "2",
+    "speed_upgrade": "430",
+    "outbreak_bonus": "6",
+    "outbreak_upgrade": "320"
+  },
+  {
+    "id": "3002",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "2",
+    "speed_bonus": "3",
+    "speed_upgrade": "720",
+    "outbreak_bonus": "7",
+    "outbreak_upgrade": "600"
+  },
+  {
+    "id": "3003",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "3",
+    "speed_bonus": "4",
+    "speed_upgrade": "864",
+    "outbreak_bonus": "9",
+    "outbreak_upgrade": "720"
+  },
+  {
+    "id": "3004",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "4",
+    "speed_bonus": "5",
+    "speed_upgrade": "1037",
+    "outbreak_bonus": "11",
+    "outbreak_upgrade": "864"
+  },
+  {
+    "id": "3005",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "5",
+    "speed_bonus": "6",
+    "speed_upgrade": "1244",
+    "outbreak_bonus": "12",
+    "outbreak_upgrade": "1037"
+  },
+  {
+    "id": "3006",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "6",
+    "speed_bonus": "7",
+    "speed_upgrade": "1493",
+    "outbreak_bonus": "13",
+    "outbreak_upgrade": "1244"
+  },
+  {
+    "id": "3007",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "7",
+    "speed_bonus": "8",
+    "speed_upgrade": "1792",
+    "outbreak_bonus": "14",
+    "outbreak_upgrade": "1493"
+  },
+  {
+    "id": "3008",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "8",
+    "speed_bonus": "9",
+    "speed_upgrade": "2150",
+    "outbreak_bonus": "15",
+    "outbreak_upgrade": "1792"
+  },
+  {
+    "id": "3009",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "9",
+    "speed_bonus": "10",
+    "speed_upgrade": "2580",
+    "outbreak_bonus": "16",
+    "outbreak_upgrade": "2150"
+  },
+  {
+    "id": "3010",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "10",
+    "speed_bonus": "11",
+    "speed_upgrade": "3096",
+    "outbreak_bonus": "17",
+    "outbreak_upgrade": "2580"
+  },
+  {
+    "id": "3011",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "11",
+    "speed_bonus": "12",
+    "speed_upgrade": "3715",
+    "outbreak_bonus": "18",
+    "outbreak_upgrade": "3096"
+  },
+  {
+    "id": "3012",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "12",
+    "speed_bonus": "13",
+    "speed_upgrade": "4735",
+    "outbreak_bonus": "19",
+    "outbreak_upgrade": "3946"
+  },
+  {
+    "id": "3013",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "13",
+    "speed_bonus": "14",
+    "speed_upgrade": "5755",
+    "outbreak_bonus": "20",
+    "outbreak_upgrade": "4796"
+  },
+  {
+    "id": "3014",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "14",
+    "speed_bonus": "15",
+    "speed_upgrade": "6775",
+    "outbreak_bonus": "21",
+    "outbreak_upgrade": "5646"
+  },
+  {
+    "id": "3015",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "15",
+    "speed_bonus": "16",
+    "speed_upgrade": "7795",
+    "outbreak_bonus": "22",
+    "outbreak_upgrade": "6496"
+  },
+  {
+    "id": "3016",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "16",
+    "speed_bonus": "17",
+    "speed_upgrade": "8815",
+    "outbreak_bonus": "23",
+    "outbreak_upgrade": "7346"
+  },
+  {
+    "id": "3017",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "17",
+    "speed_bonus": "18",
+    "speed_upgrade": "9835",
+    "outbreak_bonus": "24",
+    "outbreak_upgrade": "8196"
+  },
+  {
+    "id": "3018",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "18",
+    "speed_bonus": "19",
+    "speed_upgrade": "10855",
+    "outbreak_bonus": "25",
+    "outbreak_upgrade": "9046"
+  },
+  {
+    "id": "3019",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "19",
+    "speed_bonus": "20",
+    "speed_upgrade": "11875",
+    "outbreak_bonus": "26",
+    "outbreak_upgrade": "9896"
+  },
+  {
+    "id": "3020",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "20",
+    "speed_bonus": "21",
+    "speed_upgrade": "12895",
+    "outbreak_bonus": "27",
+    "outbreak_upgrade": "10746"
+  },
+  {
+    "id": "3021",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "21",
+    "speed_bonus": "22",
+    "speed_upgrade": "14215",
+    "outbreak_bonus": "28",
+    "outbreak_upgrade": "11846"
+  },
+  {
+    "id": "3022",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "22",
+    "speed_bonus": "23",
+    "speed_upgrade": "15535",
+    "outbreak_bonus": "29",
+    "outbreak_upgrade": "12946"
+  },
+  {
+    "id": "3023",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "23",
+    "speed_bonus": "24",
+    "speed_upgrade": "16855",
+    "outbreak_bonus": "30",
+    "outbreak_upgrade": "14046"
+  },
+  {
+    "id": "3024",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "24",
+    "speed_bonus": "25",
+    "speed_upgrade": "18175",
+    "outbreak_bonus": "31",
+    "outbreak_upgrade": "15146"
+  },
+  {
+    "id": "3025",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "25",
+    "speed_bonus": "26",
+    "speed_upgrade": "19495",
+    "outbreak_bonus": "32",
+    "outbreak_upgrade": "16246"
+  },
+  {
+    "id": "3026",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "26",
+    "speed_bonus": "27",
+    "speed_upgrade": "20815",
+    "outbreak_bonus": "33",
+    "outbreak_upgrade": "17346"
+  },
+  {
+    "id": "3027",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "27",
+    "speed_bonus": "28",
+    "speed_upgrade": "22135",
+    "outbreak_bonus": "34",
+    "outbreak_upgrade": "18446"
+  },
+  {
+    "id": "3028",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "28",
+    "speed_bonus": "29",
+    "speed_upgrade": "23455",
+    "outbreak_bonus": "35",
+    "outbreak_upgrade": "19546"
+  },
+  {
+    "id": "3029",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "29",
+    "speed_bonus": "30",
+    "speed_upgrade": "24775",
+    "outbreak_bonus": "36",
+    "outbreak_upgrade": "20646"
+  },
+  {
+    "id": "3030",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "30",
+    "speed_bonus": "31",
+    "speed_upgrade": "26095",
+    "outbreak_bonus": "37",
+    "outbreak_upgrade": "21746"
+  },
+  {
+    "id": "3031",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "31",
+    "speed_bonus": "32",
+    "speed_upgrade": "27715",
+    "outbreak_bonus": "38",
+    "outbreak_upgrade": "23096"
+  },
+  {
+    "id": "3032",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "32",
+    "speed_bonus": "33",
+    "speed_upgrade": "29335",
+    "outbreak_bonus": "39",
+    "outbreak_upgrade": "24446"
+  },
+  {
+    "id": "3033",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "33",
+    "speed_bonus": "34",
+    "speed_upgrade": "30955",
+    "outbreak_bonus": "40",
+    "outbreak_upgrade": "25796"
+  },
+  {
+    "id": "3034",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "34",
+    "speed_bonus": "35",
+    "speed_upgrade": "32575",
+    "outbreak_bonus": "41",
+    "outbreak_upgrade": "27146"
+  },
+  {
+    "id": "3035",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "35",
+    "speed_bonus": "36",
+    "speed_upgrade": "34195",
+    "outbreak_bonus": "42",
+    "outbreak_upgrade": "28496"
+  },
+  {
+    "id": "3036",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "36",
+    "speed_bonus": "37",
+    "speed_upgrade": "35815",
+    "outbreak_bonus": "43",
+    "outbreak_upgrade": "29846"
+  },
+  {
+    "id": "3037",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "37",
+    "speed_bonus": "38",
+    "speed_upgrade": "37435",
+    "outbreak_bonus": "44",
+    "outbreak_upgrade": "31196"
+  },
+  {
+    "id": "3038",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "38",
+    "speed_bonus": "39",
+    "speed_upgrade": "39055",
+    "outbreak_bonus": "45",
+    "outbreak_upgrade": "32546"
+  },
+  {
+    "id": "3039",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "39",
+    "speed_bonus": "40",
+    "speed_upgrade": "40675",
+    "outbreak_bonus": "46",
+    "outbreak_upgrade": "33896"
+  },
+  {
+    "id": "3040",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "40",
+    "speed_bonus": "41",
+    "speed_upgrade": "42295",
+    "outbreak_bonus": "47",
+    "outbreak_upgrade": "35246"
+  },
+  {
+    "id": "3041",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "41",
+    "speed_bonus": "42",
+    "speed_upgrade": "44215",
+    "outbreak_bonus": "48",
+    "outbreak_upgrade": "36846"
+  },
+  {
+    "id": "3042",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "42",
+    "speed_bonus": "43",
+    "speed_upgrade": "46135",
+    "outbreak_bonus": "49",
+    "outbreak_upgrade": "38446"
+  },
+  {
+    "id": "3043",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "43",
+    "speed_bonus": "44",
+    "speed_upgrade": "48055",
+    "outbreak_bonus": "50",
+    "outbreak_upgrade": "40046"
+  },
+  {
+    "id": "3044",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "44",
+    "speed_bonus": "45",
+    "speed_upgrade": "49975",
+    "outbreak_bonus": "51",
+    "outbreak_upgrade": "41646"
+  },
+  {
+    "id": "3045",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "45",
+    "speed_bonus": "46",
+    "speed_upgrade": "51895",
+    "outbreak_bonus": "52",
+    "outbreak_upgrade": "43246"
+  },
+  {
+    "id": "3046",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "46",
+    "speed_bonus": "47",
+    "speed_upgrade": "53815",
+    "outbreak_bonus": "53",
+    "outbreak_upgrade": "44846"
+  },
+  {
+    "id": "3047",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "47",
+    "speed_bonus": "48",
+    "speed_upgrade": "55735",
+    "outbreak_bonus": "54",
+    "outbreak_upgrade": "46446"
+  },
+  {
+    "id": "3048",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "48",
+    "speed_bonus": "49",
+    "speed_upgrade": "57655",
+    "outbreak_bonus": "55",
+    "outbreak_upgrade": "48046"
+  },
+  {
+    "id": "3049",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "49",
+    "speed_bonus": "50",
+    "speed_upgrade": "59575",
+    "outbreak_bonus": "56",
+    "outbreak_upgrade": "49646"
+  },
+  {
+    "id": "3050",
+    "type": "4",
+    "name": "小呆呆专车",
+    "level": "50",
+    "speed_bonus": "51",
+    "speed_upgrade": "61495",
+    "outbreak_bonus": "57",
+    "outbreak_upgrade": "51246"
+  },
+  {
+    "id": "4001",
+    "type": "5",
+    "name": "波比专车",
+    "level": "1",
+    "speed_bonus": "5",
+    "speed_upgrade": "430",
+    "outbreak_bonus": "8",
+    "outbreak_upgrade": "320"
+  },
+  {
+    "id": "4002",
+    "type": "5",
+    "name": "波比专车",
+    "level": "2",
+    "speed_bonus": "6",
+    "speed_upgrade": "720",
+    "outbreak_bonus": "10",
+    "outbreak_upgrade": "600"
+  },
+  {
+    "id": "4003",
+    "type": "5",
+    "name": "波比专车",
+    "level": "3",
+    "speed_bonus": "7",
+    "speed_upgrade": "864",
+    "outbreak_bonus": "12",
+    "outbreak_upgrade": "720"
+  },
+  {
+    "id": "4004",
+    "type": "5",
+    "name": "波比专车",
+    "level": "4",
+    "speed_bonus": "8",
+    "speed_upgrade": "1037",
+    "outbreak_bonus": "14",
+    "outbreak_upgrade": "864"
+  },
+  {
+    "id": "4005",
+    "type": "5",
+    "name": "波比专车",
+    "level": "5",
+    "speed_bonus": "9",
+    "speed_upgrade": "1244",
+    "outbreak_bonus": "15",
+    "outbreak_upgrade": "1037"
+  },
+  {
+    "id": "4006",
+    "type": "5",
+    "name": "波比专车",
+    "level": "6",
+    "speed_bonus": "10",
+    "speed_upgrade": "1493",
+    "outbreak_bonus": "16",
+    "outbreak_upgrade": "1244"
+  },
+  {
+    "id": "4007",
+    "type": "5",
+    "name": "波比专车",
+    "level": "7",
+    "speed_bonus": "11",
+    "speed_upgrade": "1792",
+    "outbreak_bonus": "17",
+    "outbreak_upgrade": "1493"
+  },
+  {
+    "id": "4008",
+    "type": "5",
+    "name": "波比专车",
+    "level": "8",
+    "speed_bonus": "12",
+    "speed_upgrade": "2150",
+    "outbreak_bonus": "18",
+    "outbreak_upgrade": "1792"
+  },
+  {
+    "id": "4009",
+    "type": "5",
+    "name": "波比专车",
+    "level": "9",
+    "speed_bonus": "13",
+    "speed_upgrade": "2580",
+    "outbreak_bonus": "19",
+    "outbreak_upgrade": "2150"
+  },
+  {
+    "id": "4010",
+    "type": "5",
+    "name": "波比专车",
+    "level": "10",
+    "speed_bonus": "14",
+    "speed_upgrade": "3096",
+    "outbreak_bonus": "20",
+    "outbreak_upgrade": "2580"
+  },
+  {
+    "id": "4011",
+    "type": "5",
+    "name": "波比专车",
+    "level": "11",
+    "speed_bonus": "15",
+    "speed_upgrade": "3715",
+    "outbreak_bonus": "21",
+    "outbreak_upgrade": "3096"
+  },
+  {
+    "id": "4012",
+    "type": "5",
+    "name": "波比专车",
+    "level": "12",
+    "speed_bonus": "16",
+    "speed_upgrade": "4735",
+    "outbreak_bonus": "22",
+    "outbreak_upgrade": "3946"
+  },
+  {
+    "id": "4013",
+    "type": "5",
+    "name": "波比专车",
+    "level": "13",
+    "speed_bonus": "17",
+    "speed_upgrade": "5755",
+    "outbreak_bonus": "23",
+    "outbreak_upgrade": "4796"
+  },
+  {
+    "id": "4014",
+    "type": "5",
+    "name": "波比专车",
+    "level": "14",
+    "speed_bonus": "18",
+    "speed_upgrade": "6775",
+    "outbreak_bonus": "24",
+    "outbreak_upgrade": "5646"
+  },
+  {
+    "id": "4015",
+    "type": "5",
+    "name": "波比专车",
+    "level": "15",
+    "speed_bonus": "19",
+    "speed_upgrade": "7795",
+    "outbreak_bonus": "25",
+    "outbreak_upgrade": "6496"
+  },
+  {
+    "id": "4016",
+    "type": "5",
+    "name": "波比专车",
+    "level": "16",
+    "speed_bonus": "20",
+    "speed_upgrade": "8815",
+    "outbreak_bonus": "26",
+    "outbreak_upgrade": "7346"
+  },
+  {
+    "id": "4017",
+    "type": "5",
+    "name": "波比专车",
+    "level": "17",
+    "speed_bonus": "21",
+    "speed_upgrade": "9835",
+    "outbreak_bonus": "27",
+    "outbreak_upgrade": "8196"
+  },
+  {
+    "id": "4018",
+    "type": "5",
+    "name": "波比专车",
+    "level": "18",
+    "speed_bonus": "22",
+    "speed_upgrade": "10855",
+    "outbreak_bonus": "28",
+    "outbreak_upgrade": "9046"
+  },
+  {
+    "id": "4019",
+    "type": "5",
+    "name": "波比专车",
+    "level": "19",
+    "speed_bonus": "23",
+    "speed_upgrade": "11875",
+    "outbreak_bonus": "29",
+    "outbreak_upgrade": "9896"
+  },
+  {
+    "id": "4020",
+    "type": "5",
+    "name": "波比专车",
+    "level": "20",
+    "speed_bonus": "24",
+    "speed_upgrade": "12895",
+    "outbreak_bonus": "30",
+    "outbreak_upgrade": "10746"
+  },
+  {
+    "id": "4021",
+    "type": "5",
+    "name": "波比专车",
+    "level": "21",
+    "speed_bonus": "25",
+    "speed_upgrade": "14215",
+    "outbreak_bonus": "31",
+    "outbreak_upgrade": "11846"
+  },
+  {
+    "id": "4022",
+    "type": "5",
+    "name": "波比专车",
+    "level": "22",
+    "speed_bonus": "26",
+    "speed_upgrade": "15535",
+    "outbreak_bonus": "32",
+    "outbreak_upgrade": "12946"
+  },
+  {
+    "id": "4023",
+    "type": "5",
+    "name": "波比专车",
+    "level": "23",
+    "speed_bonus": "27",
+    "speed_upgrade": "16855",
+    "outbreak_bonus": "33",
+    "outbreak_upgrade": "14046"
+  },
+  {
+    "id": "4024",
+    "type": "5",
+    "name": "波比专车",
+    "level": "24",
+    "speed_bonus": "28",
+    "speed_upgrade": "18175",
+    "outbreak_bonus": "34",
+    "outbreak_upgrade": "15146"
+  },
+  {
+    "id": "4025",
+    "type": "5",
+    "name": "波比专车",
+    "level": "25",
+    "speed_bonus": "29",
+    "speed_upgrade": "19495",
+    "outbreak_bonus": "35",
+    "outbreak_upgrade": "16246"
+  },
+  {
+    "id": "4026",
+    "type": "5",
+    "name": "波比专车",
+    "level": "26",
+    "speed_bonus": "30",
+    "speed_upgrade": "20815",
+    "outbreak_bonus": "36",
+    "outbreak_upgrade": "17346"
+  },
+  {
+    "id": "4027",
+    "type": "5",
+    "name": "波比专车",
+    "level": "27",
+    "speed_bonus": "31",
+    "speed_upgrade": "22135",
+    "outbreak_bonus": "37",
+    "outbreak_upgrade": "18446"
+  },
+  {
+    "id": "4028",
+    "type": "5",
+    "name": "波比专车",
+    "level": "28",
+    "speed_bonus": "32",
+    "speed_upgrade": "23455",
+    "outbreak_bonus": "38",
+    "outbreak_upgrade": "19546"
+  },
+  {
+    "id": "4029",
+    "type": "5",
+    "name": "波比专车",
+    "level": "29",
+    "speed_bonus": "33",
+    "speed_upgrade": "24775",
+    "outbreak_bonus": "39",
+    "outbreak_upgrade": "20646"
+  },
+  {
+    "id": "4030",
+    "type": "5",
+    "name": "波比专车",
+    "level": "30",
+    "speed_bonus": "34",
+    "speed_upgrade": "26095",
+    "outbreak_bonus": "40",
+    "outbreak_upgrade": "21746"
+  },
+  {
+    "id": "4031",
+    "type": "5",
+    "name": "波比专车",
+    "level": "31",
+    "speed_bonus": "35",
+    "speed_upgrade": "27715",
+    "outbreak_bonus": "41",
+    "outbreak_upgrade": "23096"
+  },
+  {
+    "id": "4032",
+    "type": "5",
+    "name": "波比专车",
+    "level": "32",
+    "speed_bonus": "36",
+    "speed_upgrade": "29335",
+    "outbreak_bonus": "42",
+    "outbreak_upgrade": "24446"
+  },
+  {
+    "id": "4033",
+    "type": "5",
+    "name": "波比专车",
+    "level": "33",
+    "speed_bonus": "37",
+    "speed_upgrade": "30955",
+    "outbreak_bonus": "43",
+    "outbreak_upgrade": "25796"
+  },
+  {
+    "id": "4034",
+    "type": "5",
+    "name": "波比专车",
+    "level": "34",
+    "speed_bonus": "38",
+    "speed_upgrade": "32575",
+    "outbreak_bonus": "44",
+    "outbreak_upgrade": "27146"
+  },
+  {
+    "id": "4035",
+    "type": "5",
+    "name": "波比专车",
+    "level": "35",
+    "speed_bonus": "39",
+    "speed_upgrade": "34195",
+    "outbreak_bonus": "45",
+    "outbreak_upgrade": "28496"
+  },
+  {
+    "id": "4036",
+    "type": "5",
+    "name": "波比专车",
+    "level": "36",
+    "speed_bonus": "40",
+    "speed_upgrade": "35815",
+    "outbreak_bonus": "46",
+    "outbreak_upgrade": "29846"
+  },
+  {
+    "id": "4037",
+    "type": "5",
+    "name": "波比专车",
+    "level": "37",
+    "speed_bonus": "41",
+    "speed_upgrade": "37435",
+    "outbreak_bonus": "47",
+    "outbreak_upgrade": "31196"
+  },
+  {
+    "id": "4038",
+    "type": "5",
+    "name": "波比专车",
+    "level": "38",
+    "speed_bonus": "42",
+    "speed_upgrade": "39055",
+    "outbreak_bonus": "48",
+    "outbreak_upgrade": "32546"
+  },
+  {
+    "id": "4039",
+    "type": "5",
+    "name": "波比专车",
+    "level": "39",
+    "speed_bonus": "43",
+    "speed_upgrade": "40675",
+    "outbreak_bonus": "49",
+    "outbreak_upgrade": "33896"
+  },
+  {
+    "id": "4040",
+    "type": "5",
+    "name": "波比专车",
+    "level": "40",
+    "speed_bonus": "44",
+    "speed_upgrade": "42295",
+    "outbreak_bonus": "50",
+    "outbreak_upgrade": "35246"
+  },
+  {
+    "id": "4041",
+    "type": "5",
+    "name": "波比专车",
+    "level": "41",
+    "speed_bonus": "45",
+    "speed_upgrade": "44215",
+    "outbreak_bonus": "51",
+    "outbreak_upgrade": "36846"
+  },
+  {
+    "id": "4042",
+    "type": "5",
+    "name": "波比专车",
+    "level": "42",
+    "speed_bonus": "46",
+    "speed_upgrade": "46135",
+    "outbreak_bonus": "52",
+    "outbreak_upgrade": "38446"
+  },
+  {
+    "id": "4043",
+    "type": "5",
+    "name": "波比专车",
+    "level": "43",
+    "speed_bonus": "47",
+    "speed_upgrade": "48055",
+    "outbreak_bonus": "53",
+    "outbreak_upgrade": "40046"
+  },
+  {
+    "id": "4044",
+    "type": "5",
+    "name": "波比专车",
+    "level": "44",
+    "speed_bonus": "48",
+    "speed_upgrade": "49975",
+    "outbreak_bonus": "54",
+    "outbreak_upgrade": "41646"
+  },
+  {
+    "id": "4045",
+    "type": "5",
+    "name": "波比专车",
+    "level": "45",
+    "speed_bonus": "49",
+    "speed_upgrade": "51895",
+    "outbreak_bonus": "55",
+    "outbreak_upgrade": "43246"
+  },
+  {
+    "id": "4046",
+    "type": "5",
+    "name": "波比专车",
+    "level": "46",
+    "speed_bonus": "50",
+    "speed_upgrade": "53815",
+    "outbreak_bonus": "56",
+    "outbreak_upgrade": "44846"
+  },
+  {
+    "id": "4047",
+    "type": "5",
+    "name": "波比专车",
+    "level": "47",
+    "speed_bonus": "51",
+    "speed_upgrade": "55735",
+    "outbreak_bonus": "57",
+    "outbreak_upgrade": "46446"
+  },
+  {
+    "id": "4048",
+    "type": "5",
+    "name": "波比专车",
+    "level": "48",
+    "speed_bonus": "52",
+    "speed_upgrade": "57655",
+    "outbreak_bonus": "58",
+    "outbreak_upgrade": "48046"
+  },
+  {
+    "id": "4049",
+    "type": "5",
+    "name": "波比专车",
+    "level": "49",
+    "speed_bonus": "53",
+    "speed_upgrade": "59575",
+    "outbreak_bonus": "59",
+    "outbreak_upgrade": "49646"
+  },
+  {
+    "id": "4050",
+    "type": "5",
+    "name": "波比专车",
+    "level": "50",
+    "speed_bonus": "54",
+    "speed_upgrade": "61495",
+    "outbreak_bonus": "60",
+    "outbreak_upgrade": "51246"
+  }
+]

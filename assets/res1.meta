@@ -1,0 +1,15 @@
+{
+  "ver": "0.0.1",
+  "importer": "*",
+  "imported": true,
+  "uuid": "00e99f66-4e41-44ca-8abd-7601848647f6",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isSubpackage": true,
+    "subpackageName": "res1"
+  }
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "item_name": "超级加速",
+    "type": "1",
+    "time": "5",
+    "speed": "30",
+    "defense": "0",
+    "flight": "0",
+    "hp": "0",
+    "price_gold": "500",
+    "price_rmb": "50",
+    "describe": "开局加速30%"
+  },
+  {
+    "id": "2",
+    "item_name": "无敌护盾",
+    "type": "2",
+    "time": "30",
+    "speed": "0",
+    "defense": "1",
+    "flight": "0",
+    "hp": "0",
+    "price_gold": "700",
+    "price_rmb": "70",
+    "describe": "开局获得防护盾"
+  },
+  {
+    "id": "3",
+    "item_name": "飞行冲刺",
+    "type": "3",
+    "time": "0",
+    "speed": "0",
+    "defense": "0",
+    "flight": "100",
+    "hp": "0",
+    "price_gold": "1000",
+    "price_rmb": "100",
+    "describe": "开局飞行100米"
+  },
+  {
+    "id": "4",
+    "item_name": "爱心天使",
+    "type": "4",
+    "time": "0",
+    "speed": "0",
+    "defense": "0",
+    "flight": "0",
+    "hp": "1",
+    "price_gold": "1200",
+    "price_rmb": "100",
+    "describe": "本局初始生命+1"
+  },
+  {
+    "id": "5",
+    "item_name": "万能磁铁",
+    "type": "5",
+    "time": "60",
+    "speed": "0",
+    "defense": "0",
+    "flight": "0",
+    "hp": "0",
+    "price_gold": "300",
+    "price_rmb": "35",
+    "describe": "自动吸取附近的金币"
+  },
+  {
+    "id": "6",
+    "item_name": "大富翁",
+    "type": "6",
+    "time": "60",
+    "speed": "0",
+    "defense": "0",
+    "flight": "0",
+    "hp": "0",
+    "price_gold": "600",
+    "price_rmb": "60",
+    "describe": "本局结算奖励双倍"
+  }
+]

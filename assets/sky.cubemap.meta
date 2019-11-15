@@ -1,0 +1,21 @@
+{
+  "ver": "1.0.1",
+  "importer": "texture-cube",
+  "imported": true,
+  "uuid": "f47dc2da-e9cd-4804-b0ea-9e74b77cc09c",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "front": "f94ea5d8-c4f3-4a70-a7b4-3a83691042ff",
+    "back": "f94ea5d8-c4f3-4a70-a7b4-3a83691042ff",
+    "left": "f94ea5d8-c4f3-4a70-a7b4-3a83691042ff",
+    "right": "f94ea5d8-c4f3-4a70-a7b4-3a83691042ff",
+    "top": "f94ea5d8-c4f3-4a70-a7b4-3a83691042ff",
+    "bottom": "f94ea5d8-c4f3-4a70-a7b4-3a83691042ff"
+  }
+}

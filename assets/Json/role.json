@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "type": "1",
+    "role_id": "1",
+    "name": "猪猪侠",
+    "price": "[0]",
+    "features": "0",
+    "features_attribute": "0",
+    "features_lable": "人见人爱的GGBond"
+  },
+  {
+    "id": "2",
+    "type": "1",
+    "role_id": "2",
+    "name": "菲菲",
+    "price": "[2,1000]",
+    "features": "3",
+    "features_attribute": "100",
+    "features_lable": "开局飞行100米"
+  },
+  {
+    "id": "3",
+    "type": "1",
+    "role_id": "3",
+    "name": "超人强",
+    "price": "[1,15000]",
+    "features": "1",
+    "features_attribute": "20",
+    "features_lable": "开局携带一个护盾"
+  },
+  {
+    "id": "4",
+    "type": "1",
+    "role_id": "4",
+    "name": "小呆呆",
+    "price": "[2,1500]",
+    "features": "2",
+    "features_attribute": "1",
+    "features_lable": "初始生命+1"
+  },
+  {
+    "id": "5",
+    "type": "1",
+    "role_id": "5",
+    "name": "波比",
+    "price": "[1,30000]",
+    "features": "4",
+    "features_attribute": "2",
+    "features_lable": "收集金币双倍"
+  },
+  {
+    "id": "101",
+    "type": "2",
+    "role_id": "1",
+    "name": "猪猪侠专车",
+    "price": "[0]",
+    "features": "0",
+    "features_attribute": "0",
+    "features_lable": "0"
+  },
+  {
+    "id": "102",
+    "type": "2",
+    "role_id": "2",
+    "name": "菲菲专车",
+    "price": "[1,3000]",
+    "features": "0",
+    "features_attribute": "0",
+    "features_lable": "0"
+  },
+  {
+    "id": "103",
+    "type": "2",
+    "role_id": "3",
+    "name": "超人强专车",
+    "price": "[2,300]",
+    "features": "0",
+    "features_attribute": "0",
+    "features_lable": "0"
+  },
+  {
+    "id": "104",
+    "type": "2",
+    "role_id": "4",
+    "name": "小呆呆专车",
+    "price": "[1,6000]",
+    "features": "0",
+    "features_attribute": "0",
+    "features_lable": "0"
+  },
+  {
+    "id": "105",
+    "type": "2",
+    "role_id": "5",
+    "name": "波比专车",
+    "price": "[2,600]",
+    "features": "0",
+    "features_attribute": "0",
+    "features_lable": "0"
+  }
+]

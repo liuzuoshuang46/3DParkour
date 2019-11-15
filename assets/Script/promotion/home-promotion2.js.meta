@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.84",
+  "importer": "javascript",
+  "imported": true,
+  "uuid": "7e247bf4-d16a-4cdf-8421-8a05c2c16ac3",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Script/promotion/home-promotion2.js",
+    "importAsPlugin": false
+  }
+}

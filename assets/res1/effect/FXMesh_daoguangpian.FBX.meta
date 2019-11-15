@@ -1,0 +1,81 @@
+{
+  "ver": "1.1.2525",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4a4cfbd9-5077-430b-9cf6-b11d64e6122b",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".fbx"
+  ],
+  "subMetas": {
+    "b155c": {
+      "ver": "1.0.2",
+      "importer": "gltf-mesh",
+      "name": "FXMesh_daoguangpian.mesh",
+      "id": "b155c",
+      "displayName": "",
+      "uuid": "4a4cfbd9-5077-430b-9cf6-b11d64e6122b@b155c",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "ea6e2": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "DefaultMaterial.material",
+      "id": "ea6e2",
+      "displayName": "",
+      "uuid": "4a4cfbd9-5077-430b-9cf6-b11d64e6122b@ea6e2",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "c93e0": {
+      "ver": "1.0.8",
+      "importer": "gltf-scene",
+      "name": "FXMesh_daoguangpian.FBX.prefab",
+      "id": "c93e0",
+      "displayName": "",
+      "uuid": "4a4cfbd9-5077-430b-9cf6-b11d64e6122b@c93e0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageLocations": {},
+    "normals": 2,
+    "tangents": 2,
+    "dumpMaterials": false,
+    "redirect": "4a4cfbd9-5077-430b-9cf6-b11d64e6122b@c93e0",
+    "assetFinder": {
+      "meshes": [
+        "4a4cfbd9-5077-430b-9cf6-b11d64e6122b@b155c"
+      ],
+      "materials": [
+        "4a4cfbd9-5077-430b-9cf6-b11d64e6122b@ea6e2"
+      ],
+      "scenes": [
+        "4a4cfbd9-5077-430b-9cf6-b11d64e6122b@c93e0"
+      ]
+    }
+  }
+}

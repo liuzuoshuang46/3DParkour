@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "1",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "1",
+    "gold_bonus": "5",
+    "gold_upgrade": "350",
+    "flight_bonus": "3",
+    "flight_upgrade": "300"
+  },
+  {
+    "id": "2",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "2",
+    "gold_bonus": "7",
+    "gold_upgrade": "410",
+    "flight_bonus": "3.2",
+    "flight_upgrade": "360"
+  },
+  {
+    "id": "3",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "3",
+    "gold_bonus": "9",
+    "gold_upgrade": "482",
+    "flight_bonus": "3.4",
+    "flight_upgrade": "432"
+  },
+  {
+    "id": "4",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "4",
+    "gold_bonus": "11",
+    "gold_upgrade": "568",
+    "flight_bonus": "3.6",
+    "flight_upgrade": "518"
+  },
+  {
+    "id": "5",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "5",
+    "gold_bonus": "13",
+    "gold_upgrade": "672",
+    "flight_bonus": "3.8",
+    "flight_upgrade": "622"
+  },
+  {
+    "id": "6",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "6",
+    "gold_bonus": "15",
+    "gold_upgrade": "796",
+    "flight_bonus": "4",
+    "flight_upgrade": "746"
+  },
+  {
+    "id": "7",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "7",
+    "gold_bonus": "17",
+    "gold_upgrade": "945",
+    "flight_bonus": "4.2",
+    "flight_upgrade": "895"
+  },
+  {
+    "id": "8",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "8",
+    "gold_bonus": "19",
+    "gold_upgrade": "1124",
+    "flight_bonus": "4.4",
+    "flight_upgrade": "1074"
+  },
+  {
+    "id": "9",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "9",
+    "gold_bonus": "21",
+    "gold_upgrade": "1339",
+    "flight_bonus": "4.6",
+    "flight_upgrade": "1289"
+  },
+  {
+    "id": "10",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "10",
+    "gold_bonus": "23",
+    "gold_upgrade": "1597",
+    "flight_bonus": "4.8",
+    "flight_upgrade": "1547"
+  },
+  {
+    "id": "11",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "11",
+    "gold_bonus": "25",
+    "gold_upgrade": "1906",
+    "flight_bonus": "5",
+    "flight_upgrade": "1856"
+  },
+  {
+    "id": "12",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "12",
+    "gold_bonus": "27",
+    "gold_upgrade": "2416",
+    "flight_bonus": "5.2",
+    "flight_upgrade": "2366"
+  },
+  {
+    "id": "13",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "13",
+    "gold_bonus": "29",
+    "gold_upgrade": "2926",
+    "flight_bonus": "5.4",
+    "flight_upgrade": "2876"
+  },
+  {
+    "id": "14",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "14",
+    "gold_bonus": "31",
+    "gold_upgrade": "3436",
+    "flight_bonus": "5.6",
+    "flight_upgrade": "3386"
+  },
+  {
+    "id": "15",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "15",
+    "gold_bonus": "33",
+    "gold_upgrade": "3946",
+    "flight_bonus": "5.8",
+    "flight_upgrade": "3896"
+  },
+  {
+    "id": "16",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "16",
+    "gold_bonus": "35",
+    "gold_upgrade": "4456",
+    "flight_bonus": "6",
+    "flight_upgrade": "4406"
+  },
+  {
+    "id": "17",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "17",
+    "gold_bonus": "37",
+    "gold_upgrade": "4966",
+    "flight_bonus": "6.2",
+    "flight_upgrade": "4916"
+  },
+  {
+    "id": "18",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "18",
+    "gold_bonus": "39",
+    "gold_upgrade": "5476",
+    "flight_bonus": "6.4",
+    "flight_upgrade": "5426"
+  },
+  {
+    "id": "19",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "19",
+    "gold_bonus": "41",
+    "gold_upgrade": "5986",
+    "flight_bonus": "6.6",
+    "flight_upgrade": "5936"
+  },
+  {
+    "id": "20",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "20",
+    "gold_bonus": "43",
+    "gold_upgrade": "6496",
+    "flight_bonus": "6.8",
+    "flight_upgrade": "6446"
+  },
+  {
+    "id": "21",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "21",
+    "gold_bonus": "45",
+    "gold_upgrade": "7156",
+    "flight_bonus": "7",
+    "flight_upgrade": "7106"
+  },
+  {
+    "id": "22",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "22",
+    "gold_bonus": "47",
+    "gold_upgrade": "7816",
+    "flight_bonus": "7.2",
+    "flight_upgrade": "7766"
+  },
+  {
+    "id": "23",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "23",
+    "gold_bonus": "49",
+    "gold_upgrade": "8476",
+    "flight_bonus": "7.4",
+    "flight_upgrade": "8426"
+  },
+  {
+    "id": "24",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "24",
+    "gold_bonus": "51",
+    "gold_upgrade": "9136",
+    "flight_bonus": "7.6",
+    "flight_upgrade": "9086"
+  },
+  {
+    "id": "25",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "25",
+    "gold_bonus": "53",
+    "gold_upgrade": "9796",
+    "flight_bonus": "7.8",
+    "flight_upgrade": "9746"
+  },
+  {
+    "id": "26",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "26",
+    "gold_bonus": "55",
+    "gold_upgrade": "10456",
+    "flight_bonus": "8",
+    "flight_upgrade": "10406"
+  },
+  {
+    "id": "27",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "27",
+    "gold_bonus": "57",
+    "gold_upgrade": "11116",
+    "flight_bonus": "8.2",
+    "flight_upgrade": "11066"
+  },
+  {
+    "id": "28",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "28",
+    "gold_bonus": "59",
+    "gold_upgrade": "11776",
+    "flight_bonus": "8.4",
+    "flight_upgrade": "11726"
+  },
+  {
+    "id": "29",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "29",
+    "gold_bonus": "61",
+    "gold_upgrade": "12436",
+    "flight_bonus": "8.6",
+    "flight_upgrade": "12386"
+  },
+  {
+    "id": "30",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "30",
+    "gold_bonus": "63",
+    "gold_upgrade": "13096",
+    "flight_bonus": "8.8",
+    "flight_upgrade": "13046"
+  },
+  {
+    "id": "31",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "31",
+    "gold_bonus": "65",
+    "gold_upgrade": "13906",
+    "flight_bonus": "9",
+    "flight_upgrade": "13856"
+  },
+  {
+    "id": "32",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "32",
+    "gold_bonus": "67",
+    "gold_upgrade": "14716",
+    "flight_bonus": "9.2",
+    "flight_upgrade": "14666"
+  },
+  {
+    "id": "33",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "33",
+    "gold_bonus": "69",
+    "gold_upgrade": "15526",
+    "flight_bonus": "9.4",
+    "flight_upgrade": "15476"
+  },
+  {
+    "id": "34",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "34",
+    "gold_bonus": "71",
+    "gold_upgrade": "16336",
+    "flight_bonus": "9.6",
+    "flight_upgrade": "16286"
+  },
+  {
+    "id": "35",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "35",
+    "gold_bonus": "73",
+    "gold_upgrade": "17146",
+    "flight_bonus": "9.8",
+    "flight_upgrade": "17096"
+  },
+  {
+    "id": "36",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "36",
+    "gold_bonus": "75",
+    "gold_upgrade": "17956",
+    "flight_bonus": "10",
+    "flight_upgrade": "17906"
+  },
+  {
+    "id": "37",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "37",
+    "gold_bonus": "77",
+    "gold_upgrade": "18766",
+    "flight_bonus": "10.2",
+    "flight_upgrade": "18716"
+  },
+  {
+    "id": "38",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "38",
+    "gold_bonus": "79",
+    "gold_upgrade": "19576",
+    "flight_bonus": "10.4",
+    "flight_upgrade": "19526"
+  },
+  {
+    "id": "39",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "39",
+    "gold_bonus": "81",
+    "gold_upgrade": "20386",
+    "flight_bonus": "10.6",
+    "flight_upgrade": "20336"
+  },
+  {
+    "id": "40",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "40",
+    "gold_bonus": "83",
+    "gold_upgrade": "21196",
+    "flight_bonus": "10.8",
+    "flight_upgrade": "21146"
+  },
+  {
+    "id": "41",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "41",
+    "gold_bonus": "85",
+    "gold_upgrade": "22156",
+    "flight_bonus": "11",
+    "flight_upgrade": "22106"
+  },
+  {
+    "id": "42",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "42",
+    "gold_bonus": "87",
+    "gold_upgrade": "23116",
+    "flight_bonus": "11.2",
+    "flight_upgrade": "23066"
+  },
+  {
+    "id": "43",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "43",
+    "gold_bonus": "89",
+    "gold_upgrade": "24076",
+    "flight_bonus": "11.4",
+    "flight_upgrade": "24026"
+  },
+  {
+    "id": "44",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "44",
+    "gold_bonus": "91",
+    "gold_upgrade": "25036",
+    "flight_bonus": "11.6",
+    "flight_upgrade": "24986"
+  },
+  {
+    "id": "45",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "45",
+    "gold_bonus": "93",
+    "gold_upgrade": "25996",
+    "flight_bonus": "11.8",
+    "flight_upgrade": "25946"
+  },
+  {
+    "id": "46",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "46",
+    "gold_bonus": "95",
+    "gold_upgrade": "26956",
+    "flight_bonus": "12",
+    "flight_upgrade": "26906"
+  },
+  {
+    "id": "47",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "47",
+    "gold_bonus": "97",
+    "gold_upgrade": "27916",
+    "flight_bonus": "12.2",
+    "flight_upgrade": "27866"
+  },
+  {
+    "id": "48",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "48",
+    "gold_bonus": "99",
+    "gold_upgrade": "28876",
+    "flight_bonus": "12.4",
+    "flight_upgrade": "28826"
+  },
+  {
+    "id": "49",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "49",
+    "gold_bonus": "101",
+    "gold_upgrade": "29836",
+    "flight_bonus": "12.6",
+    "flight_upgrade": "29786"
+  },
+  {
+    "id": "50",
+    "type": "1",
+    "name": "猪猪侠",
+    "level": "50",
+    "gold_bonus": "103",
+    "gold_upgrade": "30796",
+    "flight_bonus": "12.8",
+    "flight_upgrade": "30746"
+  },
+  {
+    "id": "1001",
+    "type": "2",
+    "name": "菲菲",
+    "level": "1",
+    "gold_bonus": "8",
+    "gold_upgrade": "390",
+    "flight_bonus": "3",
+    "flight_upgrade": "330"
+  },
+  {
+    "id": "1002",
+    "type": "2",
+    "name": "菲菲",
+    "level": "2",
+    "gold_bonus": "10",
+    "gold_upgrade": "450",
+    "flight_bonus": "3.2",
+    "flight_upgrade": "390"
+  },
+  {
+    "id": "1003",
+    "type": "2",
+    "name": "菲菲",
+    "level": "3",
+    "gold_bonus": "12",
+    "gold_upgrade": "522",
+    "flight_bonus": "3.4",
+    "flight_upgrade": "462"
+  },
+  {
+    "id": "1004",
+    "type": "2",
+    "name": "菲菲",
+    "level": "4",
+    "gold_bonus": "14",
+    "gold_upgrade": "608",
+    "flight_bonus": "3.6",
+    "flight_upgrade": "548"
+  },
+  {
+    "id": "1005",
+    "type": "2",
+    "name": "菲菲",
+    "level": "5",
+    "gold_bonus": "16",
+    "gold_upgrade": "712",
+    "flight_bonus": "3.8",
+    "flight_upgrade": "652"
+  },
+  {
+    "id": "1006",
+    "type": "2",
+    "name": "菲菲",
+    "level": "6",
+    "gold_bonus": "18",
+    "gold_upgrade": "836",
+    "flight_bonus": "4",
+    "flight_upgrade": "776"
+  },
+  {
+    "id": "1007",
+    "type": "2",
+    "name": "菲菲",
+    "level": "7",
+    "gold_bonus": "20",
+    "gold_upgrade": "985",
+    "flight_bonus": "4.2",
+    "flight_upgrade": "925"
+  },
+  {
+    "id": "1008",
+    "type": "2",
+    "name": "菲菲",
+    "level": "8",
+    "gold_bonus": "22",
+    "gold_upgrade": "1164",
+    "flight_bonus": "4.4",
+    "flight_upgrade": "1104"
+  },
+  {
+    "id": "1009",
+    "type": "2",
+    "name": "菲菲",
+    "level": "9",
+    "gold_bonus": "24",
+    "gold_upgrade": "1379",
+    "flight_bonus": "4.6",
+    "flight_upgrade": "1319"
+  },
+  {
+    "id": "1010",
+    "type": "2",
+    "name": "菲菲",
+    "level": "10",
+    "gold_bonus": "26",
+    "gold_upgrade": "1637",
+    "flight_bonus": "4.8",
+    "flight_upgrade": "1577"
+  },
+  {
+    "id": "1011",
+    "type": "2",
+    "name": "菲菲",
+    "level": "11",
+    "gold_bonus": "28",
+    "gold_upgrade": "1946",
+    "flight_bonus": "5",
+    "flight_upgrade": "1886"
+  },
+  {
+    "id": "1012",
+    "type": "2",
+    "name": "菲菲",
+    "level": "12",
+    "gold_bonus": "30",
+    "gold_upgrade": "2456",
+    "flight_bonus": "5.2",
+    "flight_upgrade": "2396"
+  },
+  {
+    "id": "1013",
+    "type": "2",
+    "name": "菲菲",
+    "level": "13",
+    "gold_bonus": "32",
+    "gold_upgrade": "2966",
+    "flight_bonus": "5.4",
+    "flight_upgrade": "2906"
+  },
+  {
+    "id": "1014",
+    "type": "2",
+    "name": "菲菲",
+    "level": "14",
+    "gold_bonus": "34",
+    "gold_upgrade": "3476",
+    "flight_bonus": "5.6",
+    "flight_upgrade": "3416"
+  },
+  {
+    "id": "1015",
+    "type": "2",
+    "name": "菲菲",
+    "level": "15",
+    "gold_bonus": "36",
+    "gold_upgrade": "3986",
+    "flight_bonus": "5.8",
+    "flight_upgrade": "3926"
+  },
+  {
+    "id": "1016",
+    "type": "2",
+    "name": "菲菲",
+    "level": "16",
+    "gold_bonus": "38",
+    "gold_upgrade": "4496",
+    "flight_bonus": "6",
+    "flight_upgrade": "4436"
+  },
+  {
+    "id": "1017",
+    "type": "2",
+    "name": "菲菲",
+    "level": "17",
+    "gold_bonus": "40",
+    "gold_upgrade": "5006",
+    "flight_bonus": "6.2",
+    "flight_upgrade": "4946"
+  },
+  {
+    "id": "1018",
+    "type": "2",
+    "name": "菲菲",
+    "level": "18",
+    "gold_bonus": "42",
+    "gold_upgrade": "5516",
+    "flight_bonus": "6.4",
+    "flight_upgrade": "5456"
+  },
+  {
+    "id": "1019",
+    "type": "2",
+    "name": "菲菲",
+    "level": "19",
+    "gold_bonus": "44",
+    "gold_upgrade": "6026",
+    "flight_bonus": "6.6",
+    "flight_upgrade": "5966"
+  },
+  {
+    "id": "1020",
+    "type": "2",
+    "name": "菲菲",
+    "level": "20",
+    "gold_bonus": "46",
+    "gold_upgrade": "6536",
+    "flight_bonus": "6.8",
+    "flight_upgrade": "6476"
+  },
+  {
+    "id": "1021",
+    "type": "2",
+    "name": "菲菲",
+    "level": "21",
+    "gold_bonus": "48",
+    "gold_upgrade": "7196",
+    "flight_bonus": "7",
+    "flight_upgrade": "7136"
+  },
+  {
+    "id": "1022",
+    "type": "2",
+    "name": "菲菲",
+    "level": "22",
+    "gold_bonus": "50",
+    "gold_upgrade": "7856",
+    "flight_bonus": "7.2",
+    "flight_upgrade": "7796"
+  },
+  {
+    "id": "1023",
+    "type": "2",
+    "name": "菲菲",
+    "level": "23",
+    "gold_bonus": "52",
+    "gold_upgrade": "8516",
+    "flight_bonus": "7.4",
+    "flight_upgrade": "8456"
+  },
+  {
+    "id": "1024",
+    "type": "2",
+    "name": "菲菲",
+    "level": "24",
+    "gold_bonus": "54",
+    "gold_upgrade": "9176",
+    "flight_bonus": "7.6",
+    "flight_upgrade": "9116"
+  },
+  {
+    "id": "1025",
+    "type": "2",
+    "name": "菲菲",
+    "level": "25",
+    "gold_bonus": "56",
+    "gold_upgrade": "9836",
+    "flight_bonus": "7.8",
+    "flight_upgrade": "9776"
+  },
+  {
+    "id": "1026",
+    "type": "2",
+    "name": "菲菲",
+    "level": "26",
+    "gold_bonus": "58",
+    "gold_upgrade": "10496",
+    "flight_bonus": "8",
+    "flight_upgrade": "10436"
+  },
+  {
+    "id": "1027",
+    "type": "2",
+    "name": "菲菲",
+    "level": "27",
+    "gold_bonus": "60",
+    "gold_upgrade": "11156",
+    "flight_bonus": "8.2",
+    "flight_upgrade": "11096"
+  },
+  {
+    "id": "1028",
+    "type": "2",
+    "name": "菲菲",
+    "level": "28",
+    "gold_bonus": "62",
+    "gold_upgrade": "11816",
+    "flight_bonus": "8.4",
+    "flight_upgrade": "11756"
+  },
+  {
+    "id": "1029",
+    "type": "2",
+    "name": "菲菲",
+    "level": "29",
+    "gold_bonus": "64",
+    "gold_upgrade": "12476",
+    "flight_bonus": "8.6",
+    "flight_upgrade": "12416"
+  },
+  {
+    "id": "1030",
+    "type": "2",
+    "name": "菲菲",
+    "level": "30",
+    "gold_bonus": "66",
+    "gold_upgrade": "13136",
+    "flight_bonus": "8.8",
+    "flight_upgrade": "13076"
+  },
+  {
+    "id": "1031",
+    "type": "2",
+    "name": "菲菲",
+    "level": "31",
+    "gold_bonus": "68",
+    "gold_upgrade": "13946",
+    "flight_bonus": "9",
+    "flight_upgrade": "13886"
+  },
+  {
+    "id": "1032",
+    "type": "2",
+    "name": "菲菲",
+    "level": "32",
+    "gold_bonus": "70",
+    "gold_upgrade": "14756",
+    "flight_bonus": "9.2",
+    "flight_upgrade": "14696"
+  },
+  {
+    "id": "1033",
+    "type": "2",
+    "name": "菲菲",
+    "level": "33",
+    "gold_bonus": "72",
+    "gold_upgrade": "15566",
+    "flight_bonus": "9.4",
+    "flight_upgrade": "15506"
+  },
+  {
+    "id": "1034",
+    "type": "2",
+    "name": "菲菲",
+    "level": "34",
+    "gold_bonus": "74",
+    "gold_upgrade": "16376",
+    "flight_bonus": "9.6",
+    "flight_upgrade": "16316"
+  },
+  {
+    "id": "1035",
+    "type": "2",
+    "name": "菲菲",
+    "level": "35",
+    "gold_bonus": "76",
+    "gold_upgrade": "17186",
+    "flight_bonus": "9.8",
+    "flight_upgrade": "17126"
+  },
+  {
+    "id": "1036",
+    "type": "2",
+    "name": "菲菲",
+    "level": "36",
+    "gold_bonus": "78",
+    "gold_upgrade": "17996",
+    "flight_bonus": "10",
+    "flight_upgrade": "17936"
+  },
+  {
+    "id": "1037",
+    "type": "2",
+    "name": "菲菲",
+    "level": "37",
+    "gold_bonus": "80",
+    "gold_upgrade": "18806",
+    "flight_bonus": "10.2",
+    "flight_upgrade": "18746"
+  },
+  {
+    "id": "1038",
+    "type": "2",
+    "name": "菲菲",
+    "level": "38",
+    "gold_bonus": "82",
+    "gold_upgrade": "19616",
+    "flight_bonus": "10.4",
+    "flight_upgrade": "19556"
+  },
+  {
+    "id": "1039",
+    "type": "2",
+    "name": "菲菲",
+    "level": "39",
+    "gold_bonus": "84",
+    "gold_upgrade": "20426",
+    "flight_bonus": "10.6",
+    "flight_upgrade": "20366"
+  },
+  {
+    "id": "1040",
+    "type": "2",
+    "name": "菲菲",
+    "level": "40",
+    "gold_bonus": "86",
+    "gold_upgrade": "21236",
+    "flight_bonus": "10.8",
+    "flight_upgrade": "21176"
+  },
+  {
+    "id": "1041",
+    "type": "2",
+    "name": "菲菲",
+    "level": "41",
+    "gold_bonus": "88",
+    "gold_upgrade": "22196",
+    "flight_bonus": "11",
+    "flight_upgrade": "22136"
+  },
+  {
+    "id": "1042",
+    "type": "2",
+    "name": "菲菲",
+    "level": "42",
+    "gold_bonus": "90",
+    "gold_upgrade": "23156",
+    "flight_bonus": "11.2",
+    "flight_upgrade": "23096"
+  },
+  {
+    "id": "1043",
+    "type": "2",
+    "name": "菲菲",
+    "level": "43",
+    "gold_bonus": "92",
+    "gold_upgrade": "24116",
+    "flight_bonus": "11.4",
+    "flight_upgrade": "24056"
+  },
+  {
+    "id": "1044",
+    "type": "2",
+    "name": "菲菲",
+    "level": "44",
+    "gold_bonus": "94",
+    "gold_upgrade": "25076",
+    "flight_bonus": "11.6",
+    "flight_upgrade": "25016"
+  },
+  {
+    "id": "1045",
+    "type": "2",
+    "name": "菲菲",
+    "level": "45",
+    "gold_bonus": "96",
+    "gold_upgrade": "26036",
+    "flight_bonus": "11.8",
+    "flight_upgrade": "25976"
+  },
+  {
+    "id": "1046",
+    "type": "2",
+    "name": "菲菲",
+    "level": "46",
+    "gold_bonus": "98",
+    "gold_upgrade": "26996",
+    "flight_bonus": "12",
+    "flight_upgrade": "26936"
+  },
+  {
+    "id": "1047",
+    "type": "2",
+    "name": "菲菲",
+    "level": "47",
+    "gold_bonus": "100",
+    "gold_upgrade": "27956",
+    "flight_bonus": "12.2",
+    "flight_upgrade": "27896"
+  },
+  {
+    "id": "1048",
+    "type": "2",
+    "name": "菲菲",
+    "level": "48",
+    "gold_bonus": "102",
+    "gold_upgrade": "28916",
+    "flight_bonus": "12.4",
+    "flight_upgrade": "28856"
+  },
+  {
+    "id": "1049",
+    "type": "2",
+    "name": "菲菲",
+    "level": "49",
+    "gold_bonus": "104",
+    "gold_upgrade": "29876",
+    "flight_bonus": "12.6",
+    "flight_upgrade": "29816"
+  },
+  {
+    "id": "1050",
+    "type": "2",
+    "name": "菲菲",
+    "level": "50",
+    "gold_bonus": "106",
+    "gold_upgrade": "30836",
+    "flight_bonus": "12.8",
+    "flight_upgrade": "30776"
+  },
+  {
+    "id": "2001",
+    "type": "3",
+    "name": "超人强",
+    "level": "1",
+    "gold_bonus": "6",
+    "gold_upgrade": "450",
+    "flight_bonus": "3",
+    "flight_upgrade": "450"
+  },
+  {
+    "id": "2002",
+    "type": "3",
+    "name": "超人强",
+    "level": "2",
+    "gold_bonus": "8",
+    "gold_upgrade": "1050",
+    "flight_bonus": "3.2",
+    "flight_upgrade": "1050"
+  },
+  {
+    "id": "2003",
+    "type": "3",
+    "name": "超人强",
+    "level": "3",
+    "gold_bonus": "10",
+    "gold_upgrade": "2025",
+    "flight_bonus": "3.4",
+    "flight_upgrade": "2025"
+  },
+  {
+    "id": "2004",
+    "type": "3",
+    "name": "超人强",
+    "level": "4",
+    "gold_bonus": "12",
+    "gold_upgrade": "2700",
+    "flight_bonus": "3.6",
+    "flight_upgrade": "2700"
+  },
+  {
+    "id": "2005",
+    "type": "3",
+    "name": "超人强",
+    "level": "5",
+    "gold_bonus": "14",
+    "gold_upgrade": "3375",
+    "flight_bonus": "3.8",
+    "flight_upgrade": "3375"
+  },
+  {
+    "id": "2006",
+    "type": "3",
+    "name": "超人强",
+    "level": "6",
+    "gold_bonus": "16",
+    "gold_upgrade": "4050",
+    "flight_bonus": "4",
+    "flight_upgrade": "4050"
+  },
+  {
+    "id": "2007",
+    "type": "3",
+    "name": "超人强",
+    "level": "7",
+    "gold_bonus": "18",
+    "gold_upgrade": "4725",
+    "flight_bonus": "4.2",
+    "flight_upgrade": "4725"
+  },
+  {
+    "id": "2008",
+    "type": "3",
+    "name": "超人强",
+    "level": "8",
+    "gold_bonus": "20",
+    "gold_upgrade": "5400",
+    "flight_bonus": "4.4",
+    "flight_upgrade": "5400"
+  },
+  {
+    "id": "2009",
+    "type": "3",
+    "name": "超人强",
+    "level": "9",
+    "gold_bonus": "22",
+    "gold_upgrade": "6075",
+    "flight_bonus": "4.6",
+    "flight_upgrade": "6075"
+  },
+  {
+    "id": "2010",
+    "type": "3",
+    "name": "超人强",
+    "level": "10",
+    "gold_bonus": "24",
+    "gold_upgrade": "6750",
+    "flight_bonus": "4.8",
+    "flight_upgrade": "6750"
+  },
+  {
+    "id": "2011",
+    "type": "3",
+    "name": "超人强",
+    "level": "11",
+    "gold_bonus": "26",
+    "gold_upgrade": "7425",
+    "flight_bonus": "5",
+    "flight_upgrade": "7425"
+  },
+  {
+    "id": "2012",
+    "type": "3",
+    "name": "超人强",
+    "level": "12",
+    "gold_bonus": "28",
+    "gold_upgrade": "8100",
+    "flight_bonus": "5.2",
+    "flight_upgrade": "8100"
+  },
+  {
+    "id": "2013",
+    "type": "3",
+    "name": "超人强",
+    "level": "13",
+    "gold_bonus": "30",
+    "gold_upgrade": "8775",
+    "flight_bonus": "5.4",
+    "flight_upgrade": "8775"
+  },
+  {
+    "id": "2014",
+    "type": "3",
+    "name": "超人强",
+    "level": "14",
+    "gold_bonus": "32",
+    "gold_upgrade": "12600",
+    "flight_bonus": "5.6",
+    "flight_upgrade": "12600"
+  },
+  {
+    "id": "2015",
+    "type": "3",
+    "name": "超人强",
+    "level": "15",
+    "gold_bonus": "34",
+    "gold_upgrade": "13500",
+    "flight_bonus": "5.8",
+    "flight_upgrade": "13500"
+  },
+  {
+    "id": "2016",
+    "type": "3",
+    "name": "超人强",
+    "level": "16",
+    "gold_bonus": "36",
+    "gold_upgrade": "14400",
+    "flight_bonus": "6",
+    "flight_upgrade": "14400"
+  },
+  {
+    "id": "2017",
+    "type": "3",
+    "name": "超人强",
+    "level": "17",
+    "gold_bonus": "38",
+    "gold_upgrade": "15300",
+    "flight_bonus": "6.2",
+    "flight_upgrade": "15300"
+  },
+  {
+    "id": "2018",
+    "type": "3",
+    "name": "超人强",
+    "level": "18",
+    "gold_bonus": "40",
+    "gold_upgrade": "16200",
+    "flight_bonus": "6.4",
+    "flight_upgrade": "16200"
+  },
+  {
+    "id": "2019",
+    "type": "3",
+    "name": "超人强",
+    "level": "19",
+    "gold_bonus": "42",
+    "gold_upgrade": "17100",
+    "flight_bonus": "6.6",
+    "flight_upgrade": "17100"
+  },
+  {
+    "id": "2020",
+    "type": "3",
+    "name": "超人强",
+    "level": "20",
+    "gold_bonus": "44",
+    "gold_upgrade": "18000",
+    "flight_bonus": "6.8",
+    "flight_upgrade": "18000"
+  },
+  {
+    "id": "2021",
+    "type": "3",
+    "name": "超人强",
+    "level": "21",
+    "gold_bonus": "46",
+    "gold_upgrade": "18900",
+    "flight_bonus": "7",
+    "flight_upgrade": "18900"
+  },
+  {
+    "id": "2022",
+    "type": "3",
+    "name": "超人强",
+    "level": "22",
+    "gold_bonus": "48",
+    "gold_upgrade": "19800",
+    "flight_bonus": "7.2",
+    "flight_upgrade": "19800"
+  },
+  {
+    "id": "2023",
+    "type": "3",
+    "name": "超人强",
+    "level": "23",
+    "gold_bonus": "50",
+    "gold_upgrade": "20700",
+    "flight_bonus": "7.4",
+    "flight_upgrade": "20700"
+  },
+  {
+    "id": "2024",
+    "type": "3",
+    "name": "超人强",
+    "level": "24",
+    "gold_bonus": "52",
+    "gold_upgrade": "21600",
+    "flight_bonus": "7.6",
+    "flight_upgrade": "21600"
+  },
+  {
+    "id": "2025",
+    "type": "3",
+    "name": "超人强",
+    "level": "25",
+    "gold_bonus": "54",
+    "gold_upgrade": "22500",
+    "flight_bonus": "7.8",
+    "flight_upgrade": "22500"
+  },
+  {
+    "id": "2026",
+    "type": "3",
+    "name": "超人强",
+    "level": "26",
+    "gold_bonus": "56",
+    "gold_upgrade": "23400",
+    "flight_bonus": "8",
+    "flight_upgrade": "23400"
+  },
+  {
+    "id": "2027",
+    "type": "3",
+    "name": "超人强",
+    "level": "27",
+    "gold_bonus": "58",
+    "gold_upgrade": "24300",
+    "flight_bonus": "8.2",
+    "flight_upgrade": "24300"
+  },
+  {
+    "id": "2028",
+    "type": "3",
+    "name": "超人强",
+    "level": "28",
+    "gold_bonus": "60",
+    "gold_upgrade": "25200",
+    "flight_bonus": "8.4",
+    "flight_upgrade": "25200"
+  },
+  {
+    "id": "2029",
+    "type": "3",
+    "name": "超人强",
+    "level": "29",
+    "gold_bonus": "62",
+    "gold_upgrade": "26100",
+    "flight_bonus": "8.6",
+    "flight_upgrade": "26100"
+  },
+  {
+    "id": "2030",
+    "type": "3",
+    "name": "超人强",
+    "level": "30",
+    "gold_bonus": "64",
+    "gold_upgrade": "27000",
+    "flight_bonus": "8.8",
+    "flight_upgrade": "27000"
+  },
+  {
+    "id": "2031",
+    "type": "3",
+    "name": "超人强",
+    "level": "31",
+    "gold_bonus": "66",
+    "gold_upgrade": "34875",
+    "flight_bonus": "9",
+    "flight_upgrade": "34875"
+  },
+  {
+    "id": "2032",
+    "type": "3",
+    "name": "超人强",
+    "level": "32",
+    "gold_bonus": "68",
+    "gold_upgrade": "36000",
+    "flight_bonus": "9.2",
+    "flight_upgrade": "36000"
+  },
+  {
+    "id": "2033",
+    "type": "3",
+    "name": "超人强",
+    "level": "33",
+    "gold_bonus": "70",
+    "gold_upgrade": "37125",
+    "flight_bonus": "9.4",
+    "flight_upgrade": "37125"
+  },
+  {
+    "id": "2034",
+    "type": "3",
+    "name": "超人强",
+    "level": "34",
+    "gold_bonus": "72",
+    "gold_upgrade": "38250",
+    "flight_bonus": "9.6",
+    "flight_upgrade": "38250"
+  },
+  {
+    "id": "2035",
+    "type": "3",
+    "name": "超人强",
+    "level": "35",
+    "gold_bonus": "74",
+    "gold_upgrade": "39375",
+    "flight_bonus": "9.8",
+    "flight_upgrade": "39375"
+  },
+  {
+    "id": "2036",
+    "type": "3",
+    "name": "超人强",
+    "level": "36",
+    "gold_bonus": "76",
+    "gold_upgrade": "40500",
+    "flight_bonus": "10",
+    "flight_upgrade": "40500"
+  },
+  {
+    "id": "2037",
+    "type": "3",
+    "name": "超人强",
+    "level": "37",
+    "gold_bonus": "78",
+    "gold_upgrade": "41625",
+    "flight_bonus": "10.2",
+    "flight_upgrade": "41625"
+  },
+  {
+    "id": "2038",
+    "type": "3",
+    "name": "超人强",
+    "level": "38",
+    "gold_bonus": "80",
+    "gold_upgrade": "42750",
+    "flight_bonus": "10.4",
+    "flight_upgrade": "42750"
+  },
+  {
+    "id": "2039",
+    "type": "3",
+    "name": "超人强",
+    "level": "39",
+    "gold_bonus": "82",
+    "gold_upgrade": "43875",
+    "flight_bonus": "10.6",
+    "flight_upgrade": "43875"
+  },
+  {
+    "id": "2040",
+    "type": "3",
+    "name": "超人强",
+    "level": "40",
+    "gold_bonus": "84",
+    "gold_upgrade": "45000",
+    "flight_bonus": "10.8",
+    "flight_upgrade": "45000"
+  },
+  {
+    "id": "2041",
+    "type": "3",
+    "name": "超人强",
+    "level": "41",
+    "gold_bonus": "86",
+    "gold_upgrade": "46125",
+    "flight_bonus": "11",
+    "flight_upgrade": "46125"
+  },
+  {
+    "id": "2042",
+    "type": "3",
+    "name": "超人强",
+    "level": "42",
+    "gold_bonus": "88",
+    "gold_upgrade": "47250",
+    "flight_bonus": "11.2",
+    "flight_upgrade": "47250"
+  },
+  {
+    "id": "2043",
+    "type": "3",
+    "name": "超人强",
+    "level": "43",
+    "gold_bonus": "90",
+    "gold_upgrade": "48375",
+    "flight_bonus": "11.4",
+    "flight_upgrade": "48375"
+  },
+  {
+    "id": "2044",
+    "type": "3",
+    "name": "超人强",
+    "level": "44",
+    "gold_bonus": "92",
+    "gold_upgrade": "49500",
+    "flight_bonus": "11.6",
+    "flight_upgrade": "49500"
+  },
+  {
+    "id": "2045",
+    "type": "3",
+    "name": "超人强",
+    "level": "45",
+    "gold_bonus": "94",
+    "gold_upgrade": "50625",
+    "flight_bonus": "11.8",
+    "flight_upgrade": "50625"
+  },
+  {
+    "id": "2046",
+    "type": "3",
+    "name": "超人强",
+    "level": "46",
+    "gold_bonus": "96",
+    "gold_upgrade": "51750",
+    "flight_bonus": "12",
+    "flight_upgrade": "51750"
+  },
+  {
+    "id": "2047",
+    "type": "3",
+    "name": "超人强",
+    "level": "47",
+    "gold_bonus": "98",
+    "gold_upgrade": "52875",
+    "flight_bonus": "12.2",
+    "flight_upgrade": "52875"
+  },
+  {
+    "id": "2048",
+    "type": "3",
+    "name": "超人强",
+    "level": "48",
+    "gold_bonus": "100",
+    "gold_upgrade": "54000",
+    "flight_bonus": "12.4",
+    "flight_upgrade": "54000"
+  },
+  {
+    "id": "2049",
+    "type": "3",
+    "name": "超人强",
+    "level": "49",
+    "gold_bonus": "102",
+    "gold_upgrade": "55125",
+    "flight_bonus": "12.6",
+    "flight_upgrade": "55125"
+  },
+  {
+    "id": "2050",
+    "type": "3",
+    "name": "超人强",
+    "level": "50",
+    "gold_bonus": "104",
+    "gold_upgrade": "56250",
+    "flight_bonus": "12.8",
+    "flight_upgrade": "56250"
+  },
+  {
+    "id": "3001",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "1",
+    "gold_bonus": "10",
+    "gold_upgrade": "540",
+    "flight_bonus": "3",
+    "flight_upgrade": "540"
+  },
+  {
+    "id": "3002",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "2",
+    "gold_bonus": "12",
+    "gold_upgrade": "1260",
+    "flight_bonus": "3.2",
+    "flight_upgrade": "1260"
+  },
+  {
+    "id": "3003",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "3",
+    "gold_bonus": "14",
+    "gold_upgrade": "2430",
+    "flight_bonus": "3.4",
+    "flight_upgrade": "2430"
+  },
+  {
+    "id": "3004",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "4",
+    "gold_bonus": "16",
+    "gold_upgrade": "3240",
+    "flight_bonus": "3.6",
+    "flight_upgrade": "3240"
+  },
+  {
+    "id": "3005",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "5",
+    "gold_bonus": "18",
+    "gold_upgrade": "4050",
+    "flight_bonus": "3.8",
+    "flight_upgrade": "4050"
+  },
+  {
+    "id": "3006",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "6",
+    "gold_bonus": "20",
+    "gold_upgrade": "4860",
+    "flight_bonus": "4",
+    "flight_upgrade": "4860"
+  },
+  {
+    "id": "3007",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "7",
+    "gold_bonus": "22",
+    "gold_upgrade": "5670",
+    "flight_bonus": "4.2",
+    "flight_upgrade": "5670"
+  },
+  {
+    "id": "3008",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "8",
+    "gold_bonus": "24",
+    "gold_upgrade": "6480",
+    "flight_bonus": "4.4",
+    "flight_upgrade": "6480"
+  },
+  {
+    "id": "3009",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "9",
+    "gold_bonus": "26",
+    "gold_upgrade": "7290",
+    "flight_bonus": "4.6",
+    "flight_upgrade": "7290"
+  },
+  {
+    "id": "3010",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "10",
+    "gold_bonus": "28",
+    "gold_upgrade": "8100",
+    "flight_bonus": "4.8",
+    "flight_upgrade": "8100"
+  },
+  {
+    "id": "3011",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "11",
+    "gold_bonus": "30",
+    "gold_upgrade": "8910",
+    "flight_bonus": "5",
+    "flight_upgrade": "8910"
+  },
+  {
+    "id": "3012",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "12",
+    "gold_bonus": "32",
+    "gold_upgrade": "9720",
+    "flight_bonus": "5.2",
+    "flight_upgrade": "9720"
+  },
+  {
+    "id": "3013",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "13",
+    "gold_bonus": "34",
+    "gold_upgrade": "10530",
+    "flight_bonus": "5.4",
+    "flight_upgrade": "10530"
+  },
+  {
+    "id": "3014",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "14",
+    "gold_bonus": "36",
+    "gold_upgrade": "15120",
+    "flight_bonus": "5.6",
+    "flight_upgrade": "15120"
+  },
+  {
+    "id": "3015",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "15",
+    "gold_bonus": "38",
+    "gold_upgrade": "16200",
+    "flight_bonus": "5.8",
+    "flight_upgrade": "16200"
+  },
+  {
+    "id": "3016",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "16",
+    "gold_bonus": "40",
+    "gold_upgrade": "17280",
+    "flight_bonus": "6",
+    "flight_upgrade": "17280"
+  },
+  {
+    "id": "3017",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "17",
+    "gold_bonus": "42",
+    "gold_upgrade": "18360",
+    "flight_bonus": "6.2",
+    "flight_upgrade": "18360"
+  },
+  {
+    "id": "3018",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "18",
+    "gold_bonus": "44",
+    "gold_upgrade": "19440",
+    "flight_bonus": "6.4",
+    "flight_upgrade": "19440"
+  },
+  {
+    "id": "3019",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "19",
+    "gold_bonus": "46",
+    "gold_upgrade": "20520",
+    "flight_bonus": "6.6",
+    "flight_upgrade": "20520"
+  },
+  {
+    "id": "3020",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "20",
+    "gold_bonus": "48",
+    "gold_upgrade": "21600",
+    "flight_bonus": "6.8",
+    "flight_upgrade": "21600"
+  },
+  {
+    "id": "3021",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "21",
+    "gold_bonus": "50",
+    "gold_upgrade": "22680",
+    "flight_bonus": "7",
+    "flight_upgrade": "22680"
+  },
+  {
+    "id": "3022",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "22",
+    "gold_bonus": "52",
+    "gold_upgrade": "23760",
+    "flight_bonus": "7.2",
+    "flight_upgrade": "23760"
+  },
+  {
+    "id": "3023",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "23",
+    "gold_bonus": "54",
+    "gold_upgrade": "24840",
+    "flight_bonus": "7.4",
+    "flight_upgrade": "24840"
+  },
+  {
+    "id": "3024",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "24",
+    "gold_bonus": "56",
+    "gold_upgrade": "25920",
+    "flight_bonus": "7.6",
+    "flight_upgrade": "25920"
+  },
+  {
+    "id": "3025",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "25",
+    "gold_bonus": "58",
+    "gold_upgrade": "27000",
+    "flight_bonus": "7.8",
+    "flight_upgrade": "27000"
+  },
+  {
+    "id": "3026",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "26",
+    "gold_bonus": "60",
+    "gold_upgrade": "28080",
+    "flight_bonus": "8",
+    "flight_upgrade": "28080"
+  },
+  {
+    "id": "3027",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "27",
+    "gold_bonus": "62",
+    "gold_upgrade": "29160",
+    "flight_bonus": "8.2",
+    "flight_upgrade": "29160"
+  },
+  {
+    "id": "3028",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "28",
+    "gold_bonus": "64",
+    "gold_upgrade": "30240",
+    "flight_bonus": "8.4",
+    "flight_upgrade": "30240"
+  },
+  {
+    "id": "3029",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "29",
+    "gold_bonus": "66",
+    "gold_upgrade": "31320",
+    "flight_bonus": "8.6",
+    "flight_upgrade": "31320"
+  },
+  {
+    "id": "3030",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "30",
+    "gold_bonus": "68",
+    "gold_upgrade": "32400",
+    "flight_bonus": "8.8",
+    "flight_upgrade": "32400"
+  },
+  {
+    "id": "3031",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "31",
+    "gold_bonus": "70",
+    "gold_upgrade": "41850",
+    "flight_bonus": "9",
+    "flight_upgrade": "41850"
+  },
+  {
+    "id": "3032",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "32",
+    "gold_bonus": "72",
+    "gold_upgrade": "43200",
+    "flight_bonus": "9.2",
+    "flight_upgrade": "43200"
+  },
+  {
+    "id": "3033",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "33",
+    "gold_bonus": "74",
+    "gold_upgrade": "44550",
+    "flight_bonus": "9.4",
+    "flight_upgrade": "44550"
+  },
+  {
+    "id": "3034",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "34",
+    "gold_bonus": "76",
+    "gold_upgrade": "45900",
+    "flight_bonus": "9.6",
+    "flight_upgrade": "45900"
+  },
+  {
+    "id": "3035",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "35",
+    "gold_bonus": "78",
+    "gold_upgrade": "47250",
+    "flight_bonus": "9.8",
+    "flight_upgrade": "47250"
+  },
+  {
+    "id": "3036",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "36",
+    "gold_bonus": "80",
+    "gold_upgrade": "48600",
+    "flight_bonus": "10",
+    "flight_upgrade": "48600"
+  },
+  {
+    "id": "3037",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "37",
+    "gold_bonus": "82",
+    "gold_upgrade": "49950",
+    "flight_bonus": "10.2",
+    "flight_upgrade": "49950"
+  },
+  {
+    "id": "3038",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "38",
+    "gold_bonus": "84",
+    "gold_upgrade": "51300",
+    "flight_bonus": "10.4",
+    "flight_upgrade": "51300"
+  },
+  {
+    "id": "3039",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "39",
+    "gold_bonus": "86",
+    "gold_upgrade": "52650",
+    "flight_bonus": "10.6",
+    "flight_upgrade": "52650"
+  },
+  {
+    "id": "3040",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "40",
+    "gold_bonus": "88",
+    "gold_upgrade": "54000",
+    "flight_bonus": "10.8",
+    "flight_upgrade": "54000"
+  },
+  {
+    "id": "3041",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "41",
+    "gold_bonus": "90",
+    "gold_upgrade": "55350",
+    "flight_bonus": "11",
+    "flight_upgrade": "55350"
+  },
+  {
+    "id": "3042",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "42",
+    "gold_bonus": "92",
+    "gold_upgrade": "56700",
+    "flight_bonus": "11.2",
+    "flight_upgrade": "56700"
+  },
+  {
+    "id": "3043",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "43",
+    "gold_bonus": "94",
+    "gold_upgrade": "58050",
+    "flight_bonus": "11.4",
+    "flight_upgrade": "58050"
+  },
+  {
+    "id": "3044",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "44",
+    "gold_bonus": "96",
+    "gold_upgrade": "59400",
+    "flight_bonus": "11.6",
+    "flight_upgrade": "59400"
+  },
+  {
+    "id": "3045",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "45",
+    "gold_bonus": "98",
+    "gold_upgrade": "60750",
+    "flight_bonus": "11.8",
+    "flight_upgrade": "60750"
+  },
+  {
+    "id": "3046",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "46",
+    "gold_bonus": "100",
+    "gold_upgrade": "62100",
+    "flight_bonus": "12",
+    "flight_upgrade": "62100"
+  },
+  {
+    "id": "3047",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "47",
+    "gold_bonus": "102",
+    "gold_upgrade": "63450",
+    "flight_bonus": "12.2",
+    "flight_upgrade": "63450"
+  },
+  {
+    "id": "3048",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "48",
+    "gold_bonus": "104",
+    "gold_upgrade": "64800",
+    "flight_bonus": "12.4",
+    "flight_upgrade": "64800"
+  },
+  {
+    "id": "3049",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "49",
+    "gold_bonus": "106",
+    "gold_upgrade": "66150",
+    "flight_bonus": "12.6",
+    "flight_upgrade": "66150"
+  },
+  {
+    "id": "3050",
+    "type": "4",
+    "name": "小呆呆",
+    "level": "50",
+    "gold_bonus": "108",
+    "gold_upgrade": "67500",
+    "flight_bonus": "12.8",
+    "flight_upgrade": "67500"
+  },
+  {
+    "id": "4001",
+    "type": "5",
+    "name": "波比",
+    "level": "1",
+    "gold_bonus": "7",
+    "gold_upgrade": "600",
+    "flight_bonus": "3",
+    "flight_upgrade": "600"
+  },
+  {
+    "id": "4002",
+    "type": "5",
+    "name": "波比",
+    "level": "2",
+    "gold_bonus": "9",
+    "gold_upgrade": "1400",
+    "flight_bonus": "3.2",
+    "flight_upgrade": "1400"
+  },
+  {
+    "id": "4003",
+    "type": "5",
+    "name": "波比",
+    "level": "3",
+    "gold_bonus": "11",
+    "gold_upgrade": "2700",
+    "flight_bonus": "3.4",
+    "flight_upgrade": "2700"
+  },
+  {
+    "id": "4004",
+    "type": "5",
+    "name": "波比",
+    "level": "4",
+    "gold_bonus": "13",
+    "gold_upgrade": "3600",
+    "flight_bonus": "3.6",
+    "flight_upgrade": "3600"
+  },
+  {
+    "id": "4005",
+    "type": "5",
+    "name": "波比",
+    "level": "5",
+    "gold_bonus": "15",
+    "gold_upgrade": "4500",
+    "flight_bonus": "3.8",
+    "flight_upgrade": "4500"
+  },
+  {
+    "id": "4006",
+    "type": "5",
+    "name": "波比",
+    "level": "6",
+    "gold_bonus": "17",
+    "gold_upgrade": "5400",
+    "flight_bonus": "4",
+    "flight_upgrade": "5400"
+  },
+  {
+    "id": "4007",
+    "type": "5",
+    "name": "波比",
+    "level": "7",
+    "gold_bonus": "19",
+    "gold_upgrade": "6300",
+    "flight_bonus": "4.2",
+    "flight_upgrade": "6300"
+  },
+  {
+    "id": "4008",
+    "type": "5",
+    "name": "波比",
+    "level": "8",
+    "gold_bonus": "21",
+    "gold_upgrade": "7200",
+    "flight_bonus": "4.4",
+    "flight_upgrade": "7200"
+  },
+  {
+    "id": "4009",
+    "type": "5",
+    "name": "波比",
+    "level": "9",
+    "gold_bonus": "23",
+    "gold_upgrade": "8100",
+    "flight_bonus": "4.6",
+    "flight_upgrade": "8100"
+  },
+  {
+    "id": "4010",
+    "type": "5",
+    "name": "波比",
+    "level": "10",
+    "gold_bonus": "25",
+    "gold_upgrade": "9000",
+    "flight_bonus": "4.8",
+    "flight_upgrade": "9000"
+  },
+  {
+    "id": "4011",
+    "type": "5",
+    "name": "波比",
+    "level": "11",
+    "gold_bonus": "27",
+    "gold_upgrade": "9900",
+    "flight_bonus": "5",
+    "flight_upgrade": "9900"
+  },
+  {
+    "id": "4012",
+    "type": "5",
+    "name": "波比",
+    "level": "12",
+    "gold_bonus": "29",
+    "gold_upgrade": "10800",
+    "flight_bonus": "5.2",
+    "flight_upgrade": "10800"
+  },
+  {
+    "id": "4013",
+    "type": "5",
+    "name": "波比",
+    "level": "13",
+    "gold_bonus": "31",
+    "gold_upgrade": "11700",
+    "flight_bonus": "5.4",
+    "flight_upgrade": "11700"
+  },
+  {
+    "id": "4014",
+    "type": "5",
+    "name": "波比",
+    "level": "14",
+    "gold_bonus": "33",
+    "gold_upgrade": "16800",
+    "flight_bonus": "5.6",
+    "flight_upgrade": "16800"
+  },
+  {
+    "id": "4015",
+    "type": "5",
+    "name": "波比",
+    "level": "15",
+    "gold_bonus": "35",
+    "gold_upgrade": "18000",
+    "flight_bonus": "5.8",
+    "flight_upgrade": "18000"
+  },
+  {
+    "id": "4016",
+    "type": "5",
+    "name": "波比",
+    "level": "16",
+    "gold_bonus": "37",
+    "gold_upgrade": "19200",
+    "flight_bonus": "6",
+    "flight_upgrade": "19200"
+  },
+  {
+    "id": "4017",
+    "type": "5",
+    "name": "波比",
+    "level": "17",
+    "gold_bonus": "39",
+    "gold_upgrade": "20400",
+    "flight_bonus": "6.2",
+    "flight_upgrade": "20400"
+  },
+  {
+    "id": "4018",
+    "type": "5",
+    "name": "波比",
+    "level": "18",
+    "gold_bonus": "41",
+    "gold_upgrade": "21600",
+    "flight_bonus": "6.4",
+    "flight_upgrade": "21600"
+  },
+  {
+    "id": "4019",
+    "type": "5",
+    "name": "波比",
+    "level": "19",
+    "gold_bonus": "43",
+    "gold_upgrade": "22800",
+    "flight_bonus": "6.6",
+    "flight_upgrade": "22800"
+  },
+  {
+    "id": "4020",
+    "type": "5",
+    "name": "波比",
+    "level": "20",
+    "gold_bonus": "45",
+    "gold_upgrade": "24000",
+    "flight_bonus": "6.8",
+    "flight_upgrade": "24000"
+  },
+  {
+    "id": "4021",
+    "type": "5",
+    "name": "波比",
+    "level": "21",
+    "gold_bonus": "47",
+    "gold_upgrade": "25200",
+    "flight_bonus": "7",
+    "flight_upgrade": "25200"
+  },
+  {
+    "id": "4022",
+    "type": "5",
+    "name": "波比",
+    "level": "22",
+    "gold_bonus": "49",
+    "gold_upgrade": "26400",
+    "flight_bonus": "7.2",
+    "flight_upgrade": "26400"
+  },
+  {
+    "id": "4023",
+    "type": "5",
+    "name": "波比",
+    "level": "23",
+    "gold_bonus": "51",
+    "gold_upgrade": "27600",
+    "flight_bonus": "7.4",
+    "flight_upgrade": "27600"
+  },
+  {
+    "id": "4024",
+    "type": "5",
+    "name": "波比",
+    "level": "24",
+    "gold_bonus": "53",
+    "gold_upgrade": "28800",
+    "flight_bonus": "7.6",
+    "flight_upgrade": "28800"
+  },
+  {
+    "id": "4025",
+    "type": "5",
+    "name": "波比",
+    "level": "25",
+    "gold_bonus": "55",
+    "gold_upgrade": "30000",
+    "flight_bonus": "7.8",
+    "flight_upgrade": "30000"
+  },
+  {
+    "id": "4026",
+    "type": "5",
+    "name": "波比",
+    "level": "26",
+    "gold_bonus": "57",
+    "gold_upgrade": "31200",
+    "flight_bonus": "8",
+    "flight_upgrade": "31200"
+  },
+  {
+    "id": "4027",
+    "type": "5",
+    "name": "波比",
+    "level": "27",
+    "gold_bonus": "59",
+    "gold_upgrade": "32400",
+    "flight_bonus": "8.2",
+    "flight_upgrade": "32400"
+  },
+  {
+    "id": "4028",
+    "type": "5",
+    "name": "波比",
+    "level": "28",
+    "gold_bonus": "61",
+    "gold_upgrade": "33600",
+    "flight_bonus": "8.4",
+    "flight_upgrade": "33600"
+  },
+  {
+    "id": "4029",
+    "type": "5",
+    "name": "波比",
+    "level": "29",
+    "gold_bonus": "63",
+    "gold_upgrade": "34800",
+    "flight_bonus": "8.6",
+    "flight_upgrade": "34800"
+  },
+  {
+    "id": "4030",
+    "type": "5",
+    "name": "波比",
+    "level": "30",
+    "gold_bonus": "65",
+    "gold_upgrade": "36000",
+    "flight_bonus": "8.8",
+    "flight_upgrade": "36000"
+  },
+  {
+    "id": "4031",
+    "type": "5",
+    "name": "波比",
+    "level": "31",
+    "gold_bonus": "67",
+    "gold_upgrade": "46500",
+    "flight_bonus": "9",
+    "flight_upgrade": "46500"
+  },
+  {
+    "id": "4032",
+    "type": "5",
+    "name": "波比",
+    "level": "32",
+    "gold_bonus": "69",
+    "gold_upgrade": "48000",
+    "flight_bonus": "9.2",
+    "flight_upgrade": "48000"
+  },
+  {
+    "id": "4033",
+    "type": "5",
+    "name": "波比",
+    "level": "33",
+    "gold_bonus": "71",
+    "gold_upgrade": "49500",
+    "flight_bonus": "9.4",
+    "flight_upgrade": "49500"
+  },
+  {
+    "id": "4034",
+    "type": "5",
+    "name": "波比",
+    "level": "34",
+    "gold_bonus": "73",
+    "gold_upgrade": "51000",
+    "flight_bonus": "9.6",
+    "flight_upgrade": "51000"
+  },
+  {
+    "id": "4035",
+    "type": "5",
+    "name": "波比",
+    "level": "35",
+    "gold_bonus": "75",
+    "gold_upgrade": "52500",
+    "flight_bonus": "9.8",
+    "flight_upgrade": "52500"
+  },
+  {
+    "id": "4036",
+    "type": "5",
+    "name": "波比",
+    "level": "36",
+    "gold_bonus": "77",
+    "gold_upgrade": "54000",
+    "flight_bonus": "10",
+    "flight_upgrade": "54000"
+  },
+  {
+    "id": "4037",
+    "type": "5",
+    "name": "波比",
+    "level": "37",
+    "gold_bonus": "79",
+    "gold_upgrade": "55500",
+    "flight_bonus": "10.2",
+    "flight_upgrade": "55500"
+  },
+  {
+    "id": "4038",
+    "type": "5",
+    "name": "波比",
+    "level": "38",
+    "gold_bonus": "81",
+    "gold_upgrade": "57000",
+    "flight_bonus": "10.4",
+    "flight_upgrade": "57000"
+  },
+  {
+    "id": "4039",
+    "type": "5",
+    "name": "波比",
+    "level": "39",
+    "gold_bonus": "83",
+    "gold_upgrade": "58500",
+    "flight_bonus": "10.6",
+    "flight_upgrade": "58500"
+  },
+  {
+    "id": "4040",
+    "type": "5",
+    "name": "波比",
+    "level": "40",
+    "gold_bonus": "85",
+    "gold_upgrade": "60000",
+    "flight_bonus": "10.8",
+    "flight_upgrade": "60000"
+  },
+  {
+    "id": "4041",
+    "type": "5",
+    "name": "波比",
+    "level": "41",
+    "gold_bonus": "87",
+    "gold_upgrade": "61500",
+    "flight_bonus": "11",
+    "flight_upgrade": "61500"
+  },
+  {
+    "id": "4042",
+    "type": "5",
+    "name": "波比",
+    "level": "42",
+    "gold_bonus": "89",
+    "gold_upgrade": "63000",
+    "flight_bonus": "11.2",
+    "flight_upgrade": "63000"
+  },
+  {
+    "id": "4043",
+    "type": "5",
+    "name": "波比",
+    "level": "43",
+    "gold_bonus": "91",
+    "gold_upgrade": "64500",
+    "flight_bonus": "11.4",
+    "flight_upgrade": "64500"
+  },
+  {
+    "id": "4044",
+    "type": "5",
+    "name": "波比",
+    "level": "44",
+    "gold_bonus": "93",
+    "gold_upgrade": "66000",
+    "flight_bonus": "11.6",
+    "flight_upgrade": "66000"
+  },
+  {
+    "id": "4045",
+    "type": "5",
+    "name": "波比",
+    "level": "45",
+    "gold_bonus": "95",
+    "gold_upgrade": "67500",
+    "flight_bonus": "11.8",
+    "flight_upgrade": "67500"
+  },
+  {
+    "id": "4046",
+    "type": "5",
+    "name": "波比",
+    "level": "46",
+    "gold_bonus": "97",
+    "gold_upgrade": "69000",
+    "flight_bonus": "12",
+    "flight_upgrade": "69000"
+  },
+  {
+    "id": "4047",
+    "type": "5",
+    "name": "波比",
+    "level": "47",
+    "gold_bonus": "99",
+    "gold_upgrade": "70500",
+    "flight_bonus": "12.2",
+    "flight_upgrade": "70500"
+  },
+  {
+    "id": "4048",
+    "type": "5",
+    "name": "波比",
+    "level": "48",
+    "gold_bonus": "101",
+    "gold_upgrade": "72000",
+    "flight_bonus": "12.4",
+    "flight_upgrade": "72000"
+  },
+  {
+    "id": "4049",
+    "type": "5",
+    "name": "波比",
+    "level": "49",
+    "gold_bonus": "103",
+    "gold_upgrade": "73500",
+    "flight_bonus": "12.6",
+    "flight_upgrade": "73500"
+  },
+  {
+    "id": "4050",
+    "type": "5",
+    "name": "波比",
+    "level": "50",
+    "gold_bonus": "105",
+    "gold_upgrade": "75000",
+    "flight_bonus": "12.8",
+    "flight_upgrade": "75000"
+  }
+]
